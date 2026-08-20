@@ -375,7 +375,7 @@
     <div class="container">
         <div class="content-wrapper">
             <div class="header">
-                <a href="index.html" class="back-btn">
+                <a href="https://cherteya.github.io/lists/" class="back-btn">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>
                     В Заказы
                 </a>
@@ -625,14 +625,15 @@
     async function loadMovies() {
         const renderArea = document.getElementById('render-area');
         try {
-            const response = await fetch('RequestedGames.json?t=' + new Date().getTime());
+            // 1. Берем новый файл
+            const response = await fetch('Wishlist.json?t=' + new Date().getTime());
             if (!response.ok) throw new Error();
             const data = await response.json();
             rawMoviesData = [];
             
-            // Загружаем ТОЛЬКО вишлист
-            if (data && typeof data === 'object' && data["_wishlist_"]) {
-                data["_wishlist_"].forEach(movie => {
+            // 2. Читаем его напрямую как чистый список
+            if (Array.isArray(data)) {
+                data.forEach(movie => {
                     const cleanReq = movie.dateRequested ? movie.dateRequested.split(' ')[0] : '';
                     rawMoviesData.push({ ...movie, dateRequested: cleanReq, parsedDate: parseDateObj(movie.dateRequested) });
                 });
@@ -974,8 +975,8 @@
         
         document.getElementById('modalStatusLabel').innerHTML = `<span class="badge-status" style="background: var(--cute-pink); color: var(--bg-deep); box-shadow: 0 4px 10px rgba(255, 143, 163, 0.4); margin:0; padding:6px 12px; font-size: 13px;">В ВИШЛИСТЕ</span>`;
 
-        let avatarMarkup = `<div class="req-avatar" style="width:32px; height:32px; border-width:2px; display:flex; align-items:center; justify-content:center; margin-right:10px;"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></div>`;
-        document.getElementById('modalRequesterBlock').innerHTML = `<div class="modal-requester-link">${avatarMarkup}<span class="name-text" style="color: var(--cute-pink); text-shadow: 0 0 8px rgba(255, 143, 163, 0.4);">Вишлист</span></div>`;
+        let avatarMarkup = `<div class="req-avatar" style="width:32px; height:32px; border-width:2px; display:flex; align-items:center; justify-content:center; margin-right:10px; background-color: var(--cute-pink); color: var(--bg-deep);"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></div>`;
+		document.getElementById('modalRequesterBlock').innerHTML = `<div class="modal-requester-link" style="cursor: default; display:flex; align-items:center; margin-bottom: 8px;">${avatarMarkup}<span class="name-text" style="color: var(--cute-pink); text-shadow: 0 0 8px rgba(255, 143, 163, 0.4);">Вишлист</span></div>`;
 
         // ЗАПОЛНЯЕМ БЛОК С ЦЕНАМИ И КОМАНДОЙ
         const datePriceEl = document.getElementById('modalDatePrice');
