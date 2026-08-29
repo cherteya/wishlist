@@ -166,10 +166,6 @@
         .movie-overview-text { font-size: 15px; line-height: 1.6; color: var(--text-muted); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
         tr.movie-row:has(.poster-wrapper:hover) .movie-overview-wrapper { max-height: 250px; }
         tr.movie-row:has(.poster-wrapper:hover) .movie-overview-text { -webkit-line-clamp: 20; color: var(--text-main); }
-
-        .requester-badge { display: flex; flex-direction: column; align-items: center; gap: 8px; cursor: default; transition: transform 0.3s; margin: 0 auto; }
-        .req-avatar { width: 44px; height: 44px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: var(--font-title); font-size: 18px; font-weight: 700; box-shadow: 0 4px 10px rgba(0,0,0,0.4); border: 2px solid var(--mint-main); background: var(--mint-main); color: var(--bg-deep); transition: all 0.3s; }
-        .req-name { font-family: var(--font-text); font-size: 14px; font-weight: 700; color: var(--mint-light); transition: all 0.3s; }
         
         .date-badge { font-size: 14px; color: #fff; font-weight: 600; background: rgba(19, 15, 28, 0.8); border: 1px solid rgba(92, 242, 138, 0.2); padding: 6px 14px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); display: inline-flex; justify-content: center; align-items: center; gap: 6px; margin-top: 10px; }
         
@@ -177,6 +173,33 @@
 
         .steam-link-btn { display: inline-flex; align-items: center; justify-content: center; gap: 6px; background: rgba(92, 242, 138, 0.15); color: var(--mint-main); border: 1px solid rgba(92, 242, 138, 0.3); padding: 6px 12px; border-radius: 12px; text-decoration: none; font-family: var(--font-text); font-size: 13px; font-weight: 700; transition: all 0.3s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2); width: 100%; box-sizing: border-box; }
         .steam-link-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 12px rgba(92, 242, 138, 0.5); transform: translateY(-2px); }
+
+        /* ---- НОВЫЕ КНОПКИ ТЕЛЕГРАМ ---- */
+        .tg-link-btn {
+            display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+            background: rgba(56, 189, 248, 0.1); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3);
+            padding: 6px 12px; border-radius: 12px; text-decoration: none; font-family: var(--font-text);
+            font-size: 13px; font-weight: 700; transition: all 0.3s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+            width: 100%; box-sizing: border-box;
+        }
+        .tg-link-btn:hover { background: #38bdf8; color: var(--bg-deep); box-shadow: 0 0 12px rgba(56, 189, 248, 0.5); transform: translateY(-2px); }
+
+        /* ---- КНОПКИ ДОНАТОВ (СПИСОК) ---- */
+        .list-don-btn {
+            display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+            padding: 6px 10px; border-radius: 12px; text-decoration: none; font-family: var(--font-text);
+            font-size: 11px; font-weight: 800; transition: all 0.3s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+            width: 100%; box-sizing: border-box; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1;
+        }
+        .list-da-btn { background: rgba(245, 130, 32, 0.1); color: #f58220; border: 1px solid rgba(245, 130, 32, 0.3); }
+        .list-da-btn:hover { background: #f58220; color: #130f1c; box-shadow: 0 0 12px rgba(245, 130, 32, 0.5); transform: translateY(-2px); }
+
+        .list-dp-btn { background: rgba(68, 171, 79, 0.1); color: #44ab4f; border: 1px solid rgba(68, 171, 79, 0.3); }
+        .list-dp-btn:hover { background: #44ab4f; color: #130f1c; box-shadow: 0 0 12px rgba(68, 171, 79, 0.5); transform: translateY(-2px); }
+
+        .list-mono-btn { background: rgba(255, 255, 255, 0.05); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.2); }
+        .list-mono-btn:hover { background: #ffffff; color: #000000; box-shadow: 0 0 12px rgba(255, 255, 255, 0.5); transform: translateY(-2px); }
+
 
         .movies-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 15px; padding: 20px; }
         
@@ -250,19 +273,6 @@
         .card-copy-btn:hover { background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 0 10px rgba(92, 242, 138, 0.5); }
         .card-copy-btn.shifted { bottom: 42px; }
 
-
-
-
-        /* ---- НОВЫЕ КНОПКИ ТЕЛЕГРАМ ---- */
-        .tg-link-btn {
-            display: inline-flex; align-items: center; justify-content: center; gap: 6px;
-            background: rgba(56, 189, 248, 0.1); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3);
-            padding: 6px 12px; border-radius: 12px; text-decoration: none; font-family: var(--font-text);
-            font-size: 13px; font-weight: 700; transition: all 0.3s ease; box-shadow: 0 2px 6px rgba(0,0,0,0.2);
-            width: 100%; box-sizing: border-box;
-        }
-        .tg-link-btn:hover { background: #38bdf8; color: var(--bg-deep); box-shadow: 0 0 12px rgba(56, 189, 248, 0.5); transform: translateY(-2px); }
-
         .card-tg-btn {
             position: absolute; right: 8px; bottom: 8px; z-index: 16;
             background: rgba(19, 15, 28, 0.85); border: 1px solid rgba(56, 189, 248, 0.4); color: #38bdf8;
@@ -276,10 +286,6 @@
             color: #38bdf8; border-color: rgba(56, 189, 248, 0.5); background: rgba(56, 189, 248, 0.05);
         }
         .tg-modal-badge:hover { background: #38bdf8; color: var(--bg-deep); box-shadow: 0 0 10px rgba(56, 189, 248, 0.5); }
-
-
-
-
 
         .modal-overlay {
             display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
@@ -372,6 +378,81 @@
         ::-webkit-scrollbar-thumb { background: var(--mint-dark); border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: var(--mint-main); }
 
+        /* ---- ОБНОВЛЕННЫЕ СТИЛИ ДЛЯ ЦЕН И КНОПОК ДОНАТА (ПЛИТКА И МОДАЛКА) ---- */
+        .card-price-box {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            width: 100%;
+            margin: 4px 0 12px 0;
+            padding: 10px 0;
+            border-top: 1px dashed rgba(92, 242, 138, 0.25);
+            border-bottom: 1px dashed rgba(92, 242, 138, 0.25);
+        }
+
+        .price-badge {
+            flex: 1 1 calc(50% - 6px);
+            background: rgba(92, 242, 138, 0.05);
+            border: 1px solid rgba(92, 242, 138, 0.3);
+            color: var(--mint-light);
+            padding: 6px 4px;
+            border-radius: 8px;
+            font-size: 12px; 
+            font-family: var(--font-text);
+            font-weight: 800;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+            text-align: center;
+            transition: all 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        .card-view-item:hover .price-badge, .price-badge:hover {
+            border-color: var(--mint-main);
+            background: rgba(92, 242, 138, 0.15);
+            color: #fff;
+            box-shadow: 0 0 8px rgba(92, 242, 138, 0.2);
+            transform: translateY(-1px);
+        }
+
+        .donate-buttons-grid {
+            display: flex;
+            flex-direction: row;
+            gap: 8px;
+            width: 100%;
+        }
+        
+        .don-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex: 1;
+            height: 38px;
+            border-radius: 10px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            box-sizing: border-box;
+        }
+
+        .don-btn svg {
+            transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+        .don-btn:hover svg {
+            transform: scale(1.25);
+        }
+
+        /* DonationAlerts - Оранжевый */
+        .da-btn { background: rgba(245, 130, 32, 0.1); color: #f58220; border: 1px solid rgba(245, 130, 32, 0.3); }
+        .da-btn:hover { background: #f58220; color: #130f1c; box-shadow: 0 0 12px rgba(245, 130, 32, 0.5); transform: translateY(-2px); }
+
+        /* DonatePay - Зеленый */
+        .dp-btn { background: rgba(68, 171, 79, 0.1); color: #44ab4f; border: 1px solid rgba(68, 171, 79, 0.3); }
+        .dp-btn:hover { background: #44ab4f; color: #130f1c; box-shadow: 0 0 12px rgba(68, 171, 79, 0.5); transform: translateY(-2px); }
+
+        /* Monobank - Темный с белым */
+        .mono-btn { background: rgba(255, 255, 255, 0.05); color: #ffffff; border: 1px solid rgba(255, 255, 255, 0.2); }
+        .mono-btn:hover { background: #ffffff; color: #000000; box-shadow: 0 0 12px rgba(255, 255, 255, 0.5); transform: translateY(-2px); }
+
         @media (max-width: 1024px) {
             .movies-grid { grid-template-columns: repeat(4, 1fr); }
         }
@@ -424,9 +505,12 @@
                 
                 <div class="controls-panel">
                     <input type="text" id="searchInput" class="search-box" placeholder="Поиск по вишлисту..." oninput="applyFilters()">
+                    
                     <select id="sortSelect" class="sort-select" onchange="applyFilters()">
                         <option value="newest">По дате добавления (Новые)</option>
                         <option value="oldest">По дате добавления (Старые)</option>
+                        <option value="price_asc">По цене (Сначала дешевые)</option>
+                        <option value="price_desc">По цене (Сначала дорогие)</option>
                     </select>
 
                     <button class="view-toggle-btn" id="viewToggleBtn" onclick="toggleViewMode()">
@@ -495,23 +579,15 @@
                         
                         <div class="modal-grid" id="modalMainGrid" style="gap: 0; padding: 0;">
                             
-                            <div class="grid-item border-bottom border-right" id="modalRequesterCol">
-                                <div class="grid-label">Заказал</div>
-                                <div class="grid-value" id="modalRequesterBlock" style="display: flex; flex-direction: column; align-items: flex-start;"></div>
-                            </div>
-                            
-                            <div class="grid-item border-bottom" id="modalStatusCol">
-                                <div class="grid-label">Статус</div>
-                                <div id="modalStatusLabel"></div>
-                            </div>
-
+                            <!-- ЦЕНЫ ТЕПЕРЬ НАВЕРХУ И НА ВСЮ ШИРИНУ -->
                             <div class="grid-item full-width border-bottom" id="modalPriceCol">
                                 <div style="display: flex; flex-direction: column; align-items: center; gap: 14px; text-align: center; width: 100%;">
-                                    <div style="display: flex; flex-direction: column; align-items: center;">
+                                    
+                                    <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
                                         <div class="grid-label" style="margin-bottom: 6px;">
                                             Цены <span style="text-transform: none; opacity: 0.6; font-size: 10px; font-weight: 600;">(обновлено <span id="modalDatePrice"></span>)</span>
                                         </div>
-                                        <div class="grid-value" id="modalPrice" style="color: #fff; font-size: 16px; font-weight: 900; letter-spacing: 0.5px;"></div>
+                                        <div class="grid-value" id="modalPrice" style="width: 100%;"></div>
                                         
                                         <div id="priceNotice" style="font-size: 11px; color: var(--text-muted); margin-top: 6px; font-weight: 600; display: none;">
                                             <span style="color: var(--mint-main);">*</span> Знак <span style="color: var(--mint-main); font-weight: 900; font-size: 13px;">~</span> означает, что товара в этом регионе нет (конвертация по курсу)
@@ -529,15 +605,33 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
                                         </button>
                                     </div>
+
+                                    <!-- НОВЫЕ КНОПКИ ДОНАТА В МОДАЛЬНОМ ОКНЕ -->
+                                    <div class="donate-buttons-grid" style="margin-top: 10px; max-width: 500px;">
+                                        <a href="https://www.donationalerts.com/r/cherteya" target="_blank" class="list-don-btn list-da-btn" style="height: 42px; border-radius: 10px; font-size: 12px;" title="Донат через DonationAlerts">
+                                            <svg width="18" height="18" viewBox="0 0 69 80" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M34.8586103,46.5882227 L29.4383109,46.5882227 C29.1227896,46.5896404 28.8214241,46.4709816 28.6091788,46.2617625 C28.3969336,46.0525435 28.2937566,45.7724279 28.325313,45.4910942 L28.8039021,40.6038855 C28.8504221,40.0844231 29.3353656,39.684617 29.9168999,39.6862871 L35.3371993,39.6862871 C35.6527206,39.6848694 35.9540862,39.8035282 36.1663314,40.0127473 C36.3785767,40.2219663 36.4817536,40.5020819 36.4501972,40.7834156 L35.9716081,45.6706244 C35.9250881,46.1900867 35.4401446,46.5898928 34.8586103,46.5882227 Z M35.7273704,37.0196078 L30.2062624,37.0196078 C29.5964177,37.0196078 29.1020408,36.5436108 29.1020408,35.9564386 L30.6037822,19.445421 C30.6711655,18.9085577 31.1463683,18.5059261 31.7080038,18.5098321 L37.2291117,18.5098321 C37.8389565,18.5098321 38.3333333,18.9858292 38.3333333,19.5730013 L36.7874231,36.0946506 C36.71732,36.6114677 36.2684318,37.0031485 35.7273704,37.0196078 Z M68.1907868,17.7655375 C68.7783609,18.4477209 69.0654113,19.3359027 68.9874243,20.2304671 L66.8294442,44.7595227 C66.7602449,45.5618649 66.4022166,46.3125114 65.8210422,46.8737509 L48.1740082,63.9078173 C47.5440361,64.5136721 46.7011436,64.8515656 45.8244317,64.849701 L27.0379034,64.849701 L10.5001116,80 L11.780782,64.8396809 L3.37070981,64.8396809 C2.42614186,64.8404154 1.52467299,64.4469919 0.886144518,63.7553546 C0.247616048,63.0637173 -0.0692823639,62.1374374 0.0127313353,61.2024067 L5.14549723,3.00601995 C5.32162283,1.29571214 6.77326374,-0.00377492304 8.50347571,8.23911697e-06 L51.3303063,8.23911697e-06 C52.3155567,-0.000274507348 53.2515294,0.428127083 53.8916472,1.17235281 L68.1907868,17.7655375 Z M55.1118136,40.0801644 L56.4832402,24.9398854 C56.5364472,24.0422509 56.2238954,23.1611024 55.6160145,22.4949959 L47.548799,13.2364798 C46.9095165,12.5050105 45.982605,12.084699 45.0076261,12.0841753 L19.5958971,12.0841753 C17.8656851,12.0803922 16.4140442,13.3798792 16.2379186,15.090187 L13.2127128,49.1583198 C13.1430685,50.0904539 13.4642119,51.0097453 14.1001037,51.6985265 C14.7359954,52.3873077 15.6300918,52.7843324 16.5706913,52.795594 L41.5588914,52.795594 C42.4258216,52.7976549 43.2601656,52.4674704 43.8882999,51.8737504 L54.1034116,42.2044127 C54.6867718,41.6406314 55.0449815,40.8860452 55.1118136,40.0801644 Z" />
+                                            </svg>
+                                            DONATIONALERTS
+                                        </a>
+                                        <a href="https://donatepay.eu/don/cherteya" target="_blank" class="list-don-btn list-dp-btn" style="height: 42px; border-radius: 10px; font-size: 12px;" title="Донат через DonatePay">
+                                            <svg width="28" height="16" viewBox="0 0 103 51" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M74.3415 17.993C74.3415 16.1862 75.7887 14.7216 77.5738 14.7216C79.3589 14.7216 80.806 16.1862 80.806 17.993C80.806 19.7998 79.3589 21.2645 77.5738 21.2645C75.7887 21.2645 74.3415 19.7998 74.3415 17.993Z"/><path d="M67.3384 25.0812C67.3384 23.2744 68.7855 21.8097 70.5706 21.8097C72.3557 21.8097 73.8028 23.2744 73.8028 25.0812C73.8028 26.888 72.3557 28.3526 70.5706 28.3526C68.7855 28.3526 67.3384 26.888 67.3384 25.0812Z"/><path d="M84.577 21.8097C82.7919 21.8097 81.3447 23.2744 81.3447 25.0812C81.3447 26.888 82.7919 28.3526 84.577 28.3526C86.3621 28.3526 87.8092 26.888 87.8092 25.0812C87.8092 23.2744 86.3621 21.8097 84.577 21.8097Z"/><path d="M74.3415 32.1693C74.3415 30.3626 75.7887 28.8979 77.5738 28.8979C79.3589 28.8979 80.806 30.3626 80.806 32.1693C80.806 33.9761 79.3589 35.4408 77.5738 35.4408C75.7887 35.4408 74.3415 33.9761 74.3415 32.1693Z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M55.4269 37.5751L55.4358 37.5872L55.4443 37.5997C60.4774 44.9501 66.8695 50.7076 77.3044 50.7076C91.1167 50.7076 102.354 39.3337 102.354 25.3538C102.354 11.3928 91.0981 0 77.3044 0C69.6291 0 63.6861 3.3237 59.3025 7.92784C55.0182 12.4313 52.0051 18.0277 49.039 23.5503L48.742 24.1031L48.7417 24.1036C45.7056 29.7455 42.6403 35.2509 39.0083 39.0912C37.1937 41.0137 35.2782 42.586 33.0082 43.6716C30.7321 44.7602 28.1549 45.3331 25.0499 45.3331C14.1047 45.3331 5.3101 36.4318 5.3101 25.3538C5.3101 14.3325 14.1607 5.37454 25.0499 5.37454C33.8857 5.37454 39.1379 10.4392 43.5342 17.2044C44.4593 15.5516 45.4469 13.8724 46.497 12.1729C41.5191 5.27928 35.1538 0 25.0499 0C11.2376 0 0 11.3739 0 25.3538C0 39.3148 11.2562 50.7076 25.0499 50.7076C32.6535 50.7076 38.5951 47.3844 42.9327 42.7796C45.8596 39.6748 48.1842 36.0343 50.3199 32.2457L51.3092 30.4908L52.2156 32.2909C52.9035 33.6568 54.2397 35.94 55.4269 37.5751ZM57.711 31.4522L57.7204 31.468C62.3451 39.2007 67.7572 45.3331 77.3044 45.3331C88.1936 45.3331 97.0442 36.3751 97.0442 25.3538C97.0442 14.2758 88.2496 5.37454 77.3044 5.37454C70.9286 5.37454 66.8235 7.71613 63.114 11.613C60.0915 14.7852 57.2931 19.7877 54.8227 24.278L54.6314 24.6257L54.7064 25.0164C54.8703 25.8711 55.4345 27.1135 55.9954 28.237C56.5794 29.4068 57.2445 30.6093 57.7021 31.4362L57.711 31.4522Z"/></svg>
+                                            DONATEPAY
+                                        </a>
+                                        <a href="https://send.monobank.ua/jar/4a3WxHS5aB" target="_blank" class="list-don-btn list-mono-btn" style="height: 42px; border-radius: 10px; font-size: 12px;" title="Донат через monobank">
+                                            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5c.67 0 1.35.09 2 .26 1.78-2 5.03-2.84 6.42-2.26 1.4.58-.42 7-.42 7A7.982 7.982 0 0 1 21 15c0 4.42-4.03 8-9 8s-9-3.58-9-8c0-2.34.89-4.5 2-6.14 0 0-1.82-6.42-.42-7 1.39-.58 4.64.26 6.42 2.26.65-.17 1.33-.26 2-.26z"></path></svg>
+                                            MONOBANK
+                                        </a>
+                                    </div>
+
                                 </div>
                             </div>
 
-                            <div class="grid-item border-bottom border-right" id="modalDateReqCol">
+                            <div class="grid-item border-right" id="modalDateReqCol">
                                 <div class="grid-label">Добавлено в вишлист</div>
                                 <div id="modalDateReq"></div>
                             </div>
 
-                            <div class="grid-item border-bottom" style="border-bottom: none;">
+                            <div class="grid-item" id="modalStudiosCol">
                                 <div class="grid-label">Разработчик / Издатель</div>
                                 <div class="grid-value" id="modalStudios" style="color: var(--text-muted); font-weight: normal; margin-top: 4px;">Архив скрыт</div>
                             </div>
@@ -609,18 +703,16 @@
 
     function copyMovieNameFromTable(event, title, year, btnElement) {
         event.stopPropagation();
-        copyTextToClipboard(`${title} ${year}`, btnElement);
+        copyTextToClipboard(title, btnElement);
     }
     function copyMovieNameFromModal() {
-        if (currentModalMovie) copyTextToClipboard(`${currentModalMovie.title || ''} ${currentModalMovie.year || ''}`, document.getElementById('modalCopyBtn'));
+        if (currentModalMovie) copyTextToClipboard(currentModalMovie.title || '', document.getElementById('modalCopyBtn'));
     }
     
     function copyUpdateCmdFromModal(btnElement) {
         if (currentModalMovie) {
             const title = (currentModalMovie.title || '').trim();
-            const year = currentModalMovie.year || '';
-            const yearPart = (year && year !== '----' && year !== '????') ? ` ${year}` : '';
-            const cmd = `!gz ${title}${yearPart} (data)`;
+            const cmd = `!gz ${title} (data)`;
             copyTextToClipboard(cmd, btnElement);
         }
     }
@@ -650,6 +742,18 @@
         const dmy = cleanDate.split('.'); 
         if (dmy.length !== 3) return 0;
         return new Date(dmy[2], dmy[1]-1, dmy[0]).getTime();
+    }
+
+    function getNumericPrice(priceStr) {
+        if (!priceStr || priceStr === "Неизвестно" || priceStr === "Цена не найдена") return Infinity;
+        if (priceStr.toLowerCase().includes('бесплатно') || priceStr.toLowerCase().includes('free')) return 0;
+        
+        const match = priceStr.match(/[\d\s]+[,.]?\d*/);
+        if (match) {
+            const num = parseFloat(match[0].replace(/\s/g, '').replace(',', '.'));
+            return isNaN(num) ? Infinity : num;
+        }
+        return Infinity;
     }
 
     async function loadMovies() {
@@ -685,8 +789,20 @@
         
         if (sortMode === 'newest') {
             filtered.sort((a, b) => b.parsedDate - a.parsedDate);
-        } else {
+        } else if (sortMode === 'oldest') {
             filtered.sort((a, b) => a.parsedDate - b.parsedDate);
+        } else if (sortMode === 'price_asc' || sortMode === 'price_desc') {
+            const isDesc = sortMode === 'price_desc';
+            filtered.sort((a, b) => {
+                let pa = getNumericPrice(a.price);
+                let pb = getNumericPrice(b.price);
+                
+                if (pa === Infinity && pb === Infinity) return 0;
+                if (pa === Infinity) return 1; 
+                if (pb === Infinity) return -1;
+                
+                return isDesc ? pb - pa : pa - pb;
+            });
         }
         
         currentViewData = filtered; 
@@ -717,9 +833,9 @@
                     <tr>
                         <th style="width: 160px; min-width: 160px;">Постер</th>
                         <th style="width: 100%;">Описание</th>
-                        <th style="width: 145px; min-width: 145px;">Заказал</th>
-                        <th style="width: 130px; min-width: 130px;">Ссылки</th>
-                        <th style="width: 135px; min-width: 135px;">Статус</th>
+                        <th style="width: 145px; min-width: 145px;">Дата добавления</th>
+                        <th style="width: 155px; min-width: 155px;">Ссылки</th>
+                        <th style="width: 130px; min-width: 130px;">Цена</th>
                     </tr>
                 </thead>
                 <tbody id="table-body"></tbody>
@@ -734,8 +850,6 @@
             
             const posterUrl = getSafePoster(movie.altPoster || movie.poster);
             
-            const statusText = `<span class="badge-status" style="background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 4px 10px rgba(92, 242, 138, 0.4);">В ВИШЛИСТЕ</span>`;
-            
             const idBadge = `<span class="outline-badge">ID №${movie.id || 0}</span>`;
             const typeLabel = `<span class="content-type-badge">${escapeHTML(movie.type || 'Игра')}</span>`;
             const cleanTitle = escapeHTML(movie.title || 'Безымянный');
@@ -748,14 +862,39 @@
             let steamButtonHTML = '';
             if (movie.steamAppId && !movie.steamAppId.startsWith('IGDB_')) {
                 steamButtonHTML = `<a href="https://store.steampowered.com/app/${movie.steamAppId}/" target="_blank" class="steam-link-btn" onclick="event.stopPropagation();"><svg class="steam-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 496 512" fill="currentColor" aria-hidden="true"><path d="M496 256c0 137-111 248-248 248-113.8 0-209.6-76.6-239-180.8l95.2 39.3c6.4 32.1 34.9 56.4 68.9 56.4 39.2 0 71.9-32.4 70.2-73.5l84.5-60.2c52.1 1.3 95.8-40.9 95.8-93.5 0-51.6-42-93.5-93.7-93.5s-93.7 42-93.7 93.5v1.2L176.6 279c-15.5-.9-30.7 3.4-43.5 12.1L0 236.1C10.2 108.4 117.1 8 247.6 8 384.8 8 496 119 496 256zM155.7 384.3l-30.5-12.6a52.79 52.79 0 0 0 27.2 25.8c26.9 11.2 57.8-1.6 69-28.4 5.4-13 5.5-27.3.1-40.3-5.4-13-15.5-23.2-28.5-28.6-12.9-5.4-26.7-5.2-38.9-.6l31.5 13c19.8 8.2 29.2 30.9 20.9 50.7-8.3 19.9-31 29.2-50.8 21zm173.8-129.9c-34.4 0-62.4-28-62.4-62.3s28-62.3 62.4-62.3 62.4 28 62.4 62.3-27.9 62.3-62.4 62.3zm.1-15.6c25.9 0 46.9-21 46.9-46.8 0-25.9-21-46.8-46.9-46.8s-46.9 21-46.9 46.8c.1 25.8 21.1 46.8 46.9 46.8z"/></svg> В Steam </a>`;
-            } else { steamButtonHTML = `<span style="color: var(--text-muted); font-size: 12px; font-weight: 700;">Нет в Steam</span>`; }
+            } else { steamButtonHTML = `<span style="color: var(--text-muted); font-size: 12px; font-weight: 700; padding: 6px 0; display: inline-block;">Нет в Steam</span>`; }
 
             let tgButtonHTML = '';
             if (movie.postUrl) {
                 tgButtonHTML = `<a href="${movie.postUrl}" target="_blank" class="tg-link-btn" onclick="event.stopPropagation();"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg> ТГ ПОСТ</a>`;
             }
 
-            let avatarMarkup = `<div class="req-avatar"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></div>`;
+            let donateButtonsHTML = `
+                <div style="display: flex; flex-direction: column; gap: 8px; width: 100%; margin-top: 4px; border-top: 1px dashed rgba(92, 242, 138, 0.2); padding-top: 12px;">
+                    <a href="https://www.donationalerts.com/r/cherteya" target="_blank" class="list-don-btn list-da-btn" onclick="event.stopPropagation();" title="Донат через DonationAlerts">
+                        <svg width="14" height="14" viewBox="0 0 69 80" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M34.8586103,46.5882227 L29.4383109,46.5882227 C29.1227896,46.5896404 28.8214241,46.4709816 28.6091788,46.2617625 C28.3969336,46.0525435 28.2937566,45.7724279 28.325313,45.4910942 L28.8039021,40.6038855 C28.8504221,40.0844231 29.3353656,39.684617 29.9168999,39.6862871 L35.3371993,39.6862871 C35.6527206,39.6848694 35.9540862,39.8035282 36.1663314,40.0127473 C36.3785767,40.2219663 36.4817536,40.5020819 36.4501972,40.7834156 L35.9716081,45.6706244 C35.9250881,46.1900867 35.4401446,46.5898928 34.8586103,46.5882227 Z M35.7273704,37.0196078 L30.2062624,37.0196078 C29.5964177,37.0196078 29.1020408,36.5436108 29.1020408,35.9564386 L30.6037822,19.445421 C30.6711655,18.9085577 31.1463683,18.5059261 31.7080038,18.5098321 L37.2291117,18.5098321 C37.8389565,18.5098321 38.3333333,18.9858292 38.3333333,19.5730013 L36.7874231,36.0946506 C36.71732,36.6114677 36.2684318,37.0031485 35.7273704,37.0196078 Z M68.1907868,17.7655375 C68.7783609,18.4477209 69.0654113,19.3359027 68.9874243,20.2304671 L66.8294442,44.7595227 C66.7602449,45.5618649 66.4022166,46.3125114 65.8210422,46.8737509 L48.1740082,63.9078173 C47.5440361,64.5136721 46.7011436,64.8515656 45.8244317,64.849701 L27.0379034,64.849701 L10.5001116,80 L11.780782,64.8396809 L3.37070981,64.8396809 C2.42614186,64.8404154 1.52467299,64.4469919 0.886144518,63.7553546 C0.247616048,63.0637173 -0.0692823639,62.1374374 0.0127313353,61.2024067 L5.14549723,3.00601995 C5.32162283,1.29571214 6.77326374,-0.00377492304 8.50347571,8.23911697e-06 L51.3303063,8.23911697e-06 C52.3155567,-0.000274507348 53.2515294,0.428127083 53.8916472,1.17235281 L68.1907868,17.7655375 Z M55.1118136,40.0801644 L56.4832402,24.9398854 C56.5364472,24.0422509 56.2238954,23.1611024 55.6160145,22.4949959 L47.548799,13.2364798 C46.9095165,12.5050105 45.982605,12.084699 45.0076261,12.0841753 L19.5958971,12.0841753 C17.8656851,12.0803922 16.4140442,13.3798792 16.2379186,15.090187 L13.2127128,49.1583198 C13.1430685,50.0904539 13.4642119,51.0097453 14.1001037,51.6985265 C14.7359954,52.3873077 15.6300918,52.7843324 16.5706913,52.795594 L41.5588914,52.795594 C42.4258216,52.7976549 43.2601656,52.4674704 43.8882999,51.8737504 L54.1034116,42.2044127 C54.6867718,41.6406314 55.0449815,40.8860452 55.1118136,40.0801644 Z"/></svg>
+                        DONATIONALERTS
+                    </a>
+                    <a href="https://donatepay.eu/don/cherteya" target="_blank" class="list-don-btn list-dp-btn" onclick="event.stopPropagation();" title="Донат через DonatePay">
+                        <svg width="24" height="12" viewBox="0 0 103 51" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M74.3415 17.993C74.3415 16.1862 75.7887 14.7216 77.5738 14.7216C79.3589 14.7216 80.806 16.1862 80.806 17.993C80.806 19.7998 79.3589 21.2645 77.5738 21.2645C75.7887 21.2645 74.3415 19.7998 74.3415 17.993Z"/><path d="M67.3384 25.0812C67.3384 23.2744 68.7855 21.8097 70.5706 21.8097C72.3557 21.8097 73.8028 23.2744 73.8028 25.0812C73.8028 26.888 72.3557 28.3526 70.5706 28.3526C68.7855 28.3526 67.3384 26.888 67.3384 25.0812Z"/><path d="M84.577 21.8097C82.7919 21.8097 81.3447 23.2744 81.3447 25.0812C81.3447 26.888 82.7919 28.3526 84.577 28.3526C86.3621 28.3526 87.8092 26.888 87.8092 25.0812C87.8092 23.2744 86.3621 21.8097 84.577 21.8097Z"/><path d="M74.3415 32.1693C74.3415 30.3626 75.7887 28.8979 77.5738 28.8979C79.3589 28.8979 80.806 30.3626 80.806 32.1693C80.806 33.9761 79.3589 35.4408 77.5738 35.4408C75.7887 35.4408 74.3415 33.9761 74.3415 32.1693Z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M55.4269 37.5751L55.4358 37.5872L55.4443 37.5997C60.4774 44.9501 66.8695 50.7076 77.3044 50.7076C91.1167 50.7076 102.354 39.3337 102.354 25.3538C102.354 11.3928 91.0981 0 77.3044 0C69.6291 0 63.6861 3.3237 59.3025 7.92784C55.0182 12.4313 52.0051 18.0277 49.039 23.5503L48.742 24.1031L48.7417 24.1036C45.7056 29.7455 42.6403 35.2509 39.0083 39.0912C37.1937 41.0137 35.2782 42.586 33.0082 43.6716C30.7321 44.7602 28.1549 45.3331 25.0499 45.3331C14.1047 45.3331 5.3101 36.4318 5.3101 25.3538C5.3101 14.3325 14.1607 5.37454 25.0499 5.37454C33.8857 5.37454 39.1379 10.4392 43.5342 17.2044C44.4593 15.5516 45.4469 13.8724 46.497 12.1729C41.5191 5.27928 35.1538 0 25.0499 0C11.2376 0 0 11.3739 0 25.3538C0 39.3148 11.2562 50.7076 25.0499 50.7076C32.6535 50.7076 38.5951 47.3844 42.9327 42.7796C45.8596 39.6748 48.1842 36.0343 50.3199 32.2457L51.3092 30.4908L52.2156 32.2909C52.9035 33.6568 54.2397 35.94 55.4269 37.5751ZM57.711 31.4522L57.7204 31.468C62.3451 39.2007 67.7572 45.3331 77.3044 45.3331C88.1936 45.3331 97.0442 36.3751 97.0442 25.3538C97.0442 14.2758 88.2496 5.37454 77.3044 5.37454C70.9286 5.37454 66.8235 7.71613 63.114 11.613C60.0915 14.7852 57.2931 19.7877 54.8227 24.278L54.6314 24.6257L54.7064 25.0164C54.8703 25.8711 55.4345 27.1135 55.9954 28.237C56.5794 29.4068 57.2445 30.6093 57.7021 31.4362L57.711 31.4522Z"/></svg>
+                        DONATEPAY
+                    </a>
+                    <a href="https://send.monobank.ua/jar/4a3WxHS5aB" target="_blank" class="list-don-btn list-mono-btn" onclick="event.stopPropagation();" title="Донат через monobank">
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5c.67 0 1.35.09 2 .26 1.78-2 5.03-2.84 6.42-2.26 1.4.58-.42 7-.42 7A7.982 7.982 0 0 1 21 15c0 4.42-4.03 8-9 8s-9-3.58-9-8c0-2.34.89-4.5 2-6.14 0 0-1.82-6.42-.42-7 1.39-.58 4.64.26 6.42 2.26.65-.17 1.33-.26 2-.26z"></path></svg>
+                        MONOBANK
+                    </a>
+                </div>
+            `;
+
+            const priceText = movie.price && movie.price !== "Неизвестно" ? movie.price : "Цена не найдена";
+            let priceBadgesMarkup = '';
+            if (priceText !== "Цена не найдена") {
+                const prices = priceText.split('/').map(p => p.trim());
+                // В режиме списка отключаем flex-растягивание и делаем блоки на всю ширину колонки
+                priceBadgesMarkup = prices.map(p => `<span class="price-badge" style="flex: none; width: 100%; margin-bottom: 6px; padding: 6px; font-size: 13px;">${escapeHTML(p)}</span>`).join('');
+            } else {
+                priceBadgesMarkup = `<span class="price-badge" style="flex: none; width: 100%; opacity: 0.6; padding: 6px; font-size: 12px;">Нет цены</span>`;
+            }
 
             tr.innerHTML = `
                 <td><div class="poster-wrapper"><img src="${posterUrl}" onerror="handlePosterError(this)" alt=""></div></td>
@@ -776,9 +915,9 @@
                         <div class="movie-overview-wrapper"><div class="movie-overview-text">${cleanOverview}</div></div>
                     </div>
                 </td>
-                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;"><div class="requester-badge">${avatarMarkup}<span class="req-name" style="color: var(--mint-main);">Вишлист</span></div>${movie.dateRequested ? `<div class="date-badge">${movie.dateRequested}</div>` : ''}</div></td>
-                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; height: 100%;">${steamButtonHTML}${tgButtonHTML}</div></td>
-                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center;">${statusText}</div></td>
+                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center; padding-top: 10px;">${movie.dateRequested ? `<div class="date-badge" style="margin-top: 0;">${movie.dateRequested}</div>` : ''}</div></td>
+                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 8px; height: 100%; padding-top: 10px; width: 100%; box-sizing: border-box;">${steamButtonHTML}${tgButtonHTML}${donateButtonsHTML}</div></td>
+                <td style="vertical-align: top;"><div style="display: flex; flex-direction: column; align-items: center; padding-top: 10px; width: 100%; box-sizing: border-box;">${priceBadgesMarkup}</div></td>
             `;
             tbody.appendChild(tr);
         });
@@ -794,9 +933,17 @@
             const cleanTitle = escapeHTML(movie.title || 'Безымянный');
             const safeTitle = (movie.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
             
-            let statusMarkup = `<div class="card-status" style="background: var(--mint-main); color: var(--bg-deep);">В вишлисте</div>`;
-            
-            let avatarMarkup = `<div class="card-user-avatar"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></div>`;
+            // Получаем цену
+            const priceText = movie.price && movie.price !== "Неизвестно" ? movie.price : "Цена не найдена";
+
+            // Разбиваем строку цен на отдельные бейджи
+            let priceBadgesMarkup = '';
+            if (priceText !== "Цена не найдена") {
+                const prices = priceText.split('/').map(p => p.trim());
+                priceBadgesMarkup = prices.map(p => `<span class="price-badge">${escapeHTML(p)}</span>`).join('');
+            } else {
+                priceBadgesMarkup = `<span class="price-badge" style="opacity: 0.6;">Нет цены</span>`;
+            }
 
             const hasPost = !!movie.postUrl;
             let copyBtnClass = 'card-copy-btn';
@@ -827,12 +974,6 @@
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 19l7-7 3 3-7 7-3-3z"></path><path d="M18 13l-1.5-7.5L2 2l3.5 14.5L13 18l5-5z"></path><path d="M2 2l7.586 7.586"></path><circle cx="11" cy="11" r="2"></circle></svg>
                     </button>
                     ${tgBtnMarkup}
-                    <div class="card-overlay">
-                        <div class="card-badges-top">
-                            <div class="card-type-badge">${escapeHTML(movie.type || 'Игра')}</div>
-                            ${statusMarkup}
-                        </div>
-                    </div>
                 </div>
                 <div class="card-content">
                     <div class="card-title-container" style="margin-bottom: 4px;">
@@ -844,17 +985,46 @@
                     <div style="width: 100%; border-bottom: 1px dashed rgba(92, 242, 138, 0.25); margin: 5px 0 8px 0;"></div>
 
                     <div style="margin-top: auto; width: 100%;">
-                        <div class="card-date-meta" style="display: flex; align-items: center; justify-content: center; gap: 6px;">
+                        <div class="card-date-meta" style="display: flex; align-items: center; justify-content: center; gap: 6px; margin-bottom: 10px;">
                             <span>${movie.year || '----'}</span>
                             ${gridSteamBtn ? `<span style="color: var(--mint-dark);">✧</span> ${gridSteamBtn}` : ''}
                         </div>
-                        <div class="card-queue-box">
-                            <span class="card-queue-label" style="color: var(--mint-main);">Вишлист</span>
-                            <div class="card-user-info-row">
-                                ${avatarMarkup}
-                                <span class="card-queue-name resize-username" style="color: var(--mint-light);">Сердце стримера</span>
-                            </div>
+                        
+                        <!-- Блок цены -->
+                        <div class="card-price-box">
+                            ${priceBadgesMarkup}
                         </div>
+                        
+                        <!-- Кнопки донатов -->
+                        <div class="donate-buttons-grid">
+                            <!-- DonationAlerts -->
+                            <a href="https://www.donationalerts.com/r/cherteya" target="_blank" class="don-btn da-btn" onclick="event.stopPropagation();" title="Донат через DonationAlerts">
+                                <svg width="20" height="20" viewBox="0 0 69 80" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M34.8586103,46.5882227 L29.4383109,46.5882227 C29.1227896,46.5896404 28.8214241,46.4709816 28.6091788,46.2617625 C28.3969336,46.0525435 28.2937566,45.7724279 28.325313,45.4910942 L28.8039021,40.6038855 C28.8504221,40.0844231 29.3353656,39.684617 29.9168999,39.6862871 L35.3371993,39.6862871 C35.6527206,39.6848694 35.9540862,39.8035282 36.1663314,40.0127473 C36.3785767,40.2219663 36.4817536,40.5020819 36.4501972,40.7834156 L35.9716081,45.6706244 C35.9250881,46.1900867 35.4401446,46.5898928 34.8586103,46.5882227 Z M35.7273704,37.0196078 L30.2062624,37.0196078 C29.5964177,37.0196078 29.1020408,36.5436108 29.1020408,35.9564386 L30.6037822,19.445421 C30.6711655,18.9085577 31.1463683,18.5059261 31.7080038,18.5098321 L37.2291117,18.5098321 C37.8389565,18.5098321 38.3333333,18.9858292 38.3333333,19.5730013 L36.7874231,36.0946506 C36.71732,36.6114677 36.2684318,37.0031485 35.7273704,37.0196078 Z M68.1907868,17.7655375 C68.7783609,18.4477209 69.0654113,19.3359027 68.9874243,20.2304671 L66.8294442,44.7595227 C66.7602449,45.5618649 66.4022166,46.3125114 65.8210422,46.8737509 L48.1740082,63.9078173 C47.5440361,64.5136721 46.7011436,64.8515656 45.8244317,64.849701 L27.0379034,64.849701 L10.5001116,80 L11.780782,64.8396809 L3.37070981,64.8396809 C2.42614186,64.8404154 1.52467299,64.4469919 0.886144518,63.7553546 C0.247616048,63.0637173 -0.0692823639,62.1374374 0.0127313353,61.2024067 L5.14549723,3.00601995 C5.32162283,1.29571214 6.77326374,-0.00377492304 8.50347571,8.23911697e-06 L51.3303063,8.23911697e-06 C52.3155567,-0.000274507348 53.2515294,0.428127083 53.8916472,1.17235281 L68.1907868,17.7655375 Z M55.1118136,40.0801644 L56.4832402,24.9398854 C56.5364472,24.0422509 56.2238954,23.1611024 55.6160145,22.4949959 L47.548799,13.2364798 C46.9095165,12.5050105 45.982605,12.084699 45.0076261,12.0841753 L19.5958971,12.0841753 C17.8656851,12.0803922 16.4140442,13.3798792 16.2379186,15.090187 L13.2127128,49.1583198 C13.1430685,50.0904539 13.4642119,51.0097453 14.1001037,51.6985265 C14.7359954,52.3873077 15.6300918,52.7843324 16.5706913,52.795594 L41.5588914,52.795594 C42.4258216,52.7976549 43.2601656,52.4674704 43.8882999,51.8737504 L54.1034116,42.2044127 C54.6867718,41.6406314 55.0449815,40.8860452 55.1118136,40.0801644 Z" />
+                                </svg>
+                            </a>
+                            
+							
+							<!-- DonatePay -->
+							<a href="https://donatepay.eu/don/cherteya" target="_blank" class="don-btn dp-btn" onclick="event.stopPropagation();" title="Донат через DonatePay">
+								<svg width="24" height="12" viewBox="0 0 103 51" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+									<path d="M74.3415 17.993C74.3415 16.1862 75.7887 14.7216 77.5738 14.7216C79.3589 14.7216 80.806 16.1862 80.806 17.993C80.806 19.7998 79.3589 21.2645 77.5738 21.2645C75.7887 21.2645 74.3415 19.7998 74.3415 17.993Z"/>
+									<path d="M67.3384 25.0812C67.3384 23.2744 68.7855 21.8097 70.5706 21.8097C72.3557 21.8097 73.8028 23.2744 73.8028 25.0812C73.8028 26.888 72.3557 28.3526 70.5706 28.3526C68.7855 28.3526 67.3384 26.888 67.3384 25.0812Z"/>
+									<path d="M84.577 21.8097C82.7919 21.8097 81.3447 23.2744 81.3447 25.0812C81.3447 26.888 82.7919 28.3526 84.577 28.3526C86.3621 28.3526 87.8092 26.888 87.8092 25.0812C87.8092 23.2744 86.3621 21.8097 84.577 21.8097Z"/>
+									<path d="M74.3415 32.1693C74.3415 30.3626 75.7887 28.8979 77.5738 28.8979C79.3589 28.8979 80.806 30.3626 80.806 32.1693C80.806 33.9761 79.3589 35.4408 77.5738 35.4408C75.7887 35.4408 74.3415 33.9761 74.3415 32.1693Z"/>
+									<path fill-rule="evenodd" clip-rule="evenodd" d="M55.4269 37.5751L55.4358 37.5872L55.4443 37.5997C60.4774 44.9501 66.8695 50.7076 77.3044 50.7076C91.1167 50.7076 102.354 39.3337 102.354 25.3538C102.354 11.3928 91.0981 0 77.3044 0C69.6291 0 63.6861 3.3237 59.3025 7.92784C55.0182 12.4313 52.0051 18.0277 49.039 23.5503L48.742 24.1031L48.7417 24.1036C45.7056 29.7455 42.6403 35.2509 39.0083 39.0912C37.1937 41.0137 35.2782 42.586 33.0082 43.6716C30.7321 44.7602 28.1549 45.3331 25.0499 45.3331C14.1047 45.3331 5.3101 36.4318 5.3101 25.3538C5.3101 14.3325 14.1607 5.37454 25.0499 5.37454C33.8857 5.37454 39.1379 10.4392 43.5342 17.2044C44.4593 15.5516 45.4469 13.8724 46.497 12.1729C41.5191 5.27928 35.1538 0 25.0499 0C11.2376 0 0 11.3739 0 25.3538C0 39.3148 11.2562 50.7076 25.0499 50.7076C32.6535 50.7076 38.5951 47.3844 42.9327 42.7796C45.8596 39.6748 48.1842 36.0343 50.3199 32.2457L51.3092 30.4908L52.2156 32.2909C52.9035 33.6568 54.2397 35.94 55.4269 37.5751ZM57.711 31.4522L57.7204 31.468C62.3451 39.2007 67.7572 45.3331 77.3044 45.3331C88.1936 45.3331 97.0442 36.3751 97.0442 25.3538C97.0442 14.2758 88.2496 5.37454 77.3044 5.37454C70.9286 5.37454 66.8235 7.71613 63.114 11.613C60.0915 14.7852 57.2931 19.7877 54.8227 24.278L54.6314 24.6257L54.7064 25.0164C54.8703 25.8711 55.4345 27.1135 55.9954 28.237C56.5794 29.4068 57.2445 30.6093 57.7021 31.4362L57.711 31.4522Z"/>
+								</svg>
+							</a>
+							
+							
+                            <!-- monobank -->
+                            <a href="https://send.monobank.ua/jar/4a3WxHS5aB" target="_blank" class="don-btn mono-btn" onclick="event.stopPropagation();" title="Донат через monobank">
+                                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path d="M12 5c.67 0 1.35.09 2 .26 1.78-2 5.03-2.84 6.42-2.26 1.4.58-.42 7-.42 7A7.982 7.982 0 0 1 21 15c0 4.42-4.03 8-9 8s-9-3.58-9-8c0-2.34.89-4.5 2-6.14 0 0-1.82-6.42-.42-7 1.39-.58 4.64.26 6.42 2.26.65-.17 1.33-.26 2-.26z"></path>
+                                </svg>
+                            </a>
+                        </div>
+                        
                     </div>
                 </div>
             `;
@@ -1024,11 +1194,6 @@
         } else {
              dateReqEl.innerHTML = `<div class="grid-value" style="color: var(--text-muted); font-weight: normal;">Нет данных</div>`;
         }
-        
-        document.getElementById('modalStatusLabel').innerHTML = `<span class="badge-status" style="background: var(--mint-main); color: var(--bg-deep); box-shadow: 0 4px 10px rgba(92, 242, 138, 0.4); margin:0; padding:6px 12px; font-size: 13px;">В ВИШЛИСТЕ</span>`;
-
-        let avatarMarkup = `<div class="req-avatar" style="width:32px; height:32px; border-width:2px; display:flex; align-items:center; justify-content:center; margin-right:10px; background-color: var(--mint-main); color: var(--bg-deep);"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></div>`;
-        document.getElementById('modalRequesterBlock').innerHTML = `<div class="modal-requester-link" style="cursor: default; display:flex; align-items:center; margin-bottom: 8px;">${avatarMarkup}<span class="name-text" style="color: var(--mint-light); text-shadow: 0 0 8px rgba(92, 242, 138, 0.4);">Вишлист</span></div>`;
 
         // ЗАПОЛНЯЕМ БЛОК С ЦЕНАМИ И КОМАНДОЙ
         const datePriceEl = document.getElementById('modalDatePrice');
@@ -1039,9 +1204,19 @@
         datePriceEl.textContent = movie.datePriceUpdated ? movie.datePriceUpdated.split(' ')[0] : 'неизвестно';
         
         const priceText = movie.price && movie.price !== "Неизвестно" ? movie.price : "Цена не найдена / Скрыта";
-        priceEl.textContent = priceText;
+        
+        // НОВЫЙ БЛОК ДЛЯ МОДАЛЬНОГО ОКНА (ЦЕНЫ ПЛАШКАМИ В ОДИН РЯД)
+        let modalPriceBadgesMarkup = '';
+        if (priceText !== "Цена не найдена / Скрыта") {
+            const prices = priceText.split('/').map(p => p.trim());
+            modalPriceBadgesMarkup = prices.map(p => `<span class="price-badge" style="flex: 0 0 auto; padding: 6px 14px; font-size: 15px; cursor: default;">${escapeHTML(p)}</span>`).join('');
+        } else {
+            modalPriceBadgesMarkup = `<span class="price-badge" style="flex: 0 0 auto; opacity: 0.6; padding: 6px 14px; font-size: 15px; cursor: default;">Нет цены</span>`;
+        }
+        
+        priceEl.innerHTML = `<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; gap: 8px; width: 100%; margin-top: 4px;">${modalPriceBadgesMarkup}</div>`;
 
-        // ПРОВЕРКА НА ЗНАК ~ (если есть, показываем подсказку, если нет — скрываем)
+        // ПРОВЕРКА НА ЗНАК ~
         if (priceText.includes('~')) {
             priceNoticeEl.style.display = 'block';
         } else {
@@ -1049,8 +1224,7 @@
         }
         
         const titleForCmd = (movie.title || 'Безымянный').trim();
-        const yearForCmd = (movie.year && movie.year !== '----' && movie.year !== '????') ? ` ${movie.year}` : '';
-        updateCmdEl.textContent = `!gz ${titleForCmd}${yearForCmd} (data)`;
+        updateCmdEl.textContent = `!gz ${titleForCmd} (data)`;
 
         document.getElementById('modalStudios').textContent = movie.studios === "Нет данных" || !movie.studios ? "Архив скрыт" : movie.studios;
 
