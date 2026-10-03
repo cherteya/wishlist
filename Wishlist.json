@@ -800,10 +800,10 @@
     "status": "В вишлисте",
     "steamAppId": "3330210",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3330210/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/2725131e0acc0814c6830b8ef4eea7f3da272883/page_bg_raw.jpg?t=1786246276",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/2725131e0acc0814c6830b8ef4eea7f3da272883/page_bg_raw.jpg?t=1790392843",
     "dateRequested": "28.07.2026",
     "year": "2026",
-    "price": "$5,99 / 590 ₽ / 295 ₴ / 3 960 ₸",
+    "price": "$4.19 / 413 ₽ / 206 ₴ / 2,772 ₸",
     "isFree": "false",
     "studios": "Kinnymoms (Изд: Rogue Duck Interactive, Lazy Otter,  Gamersky Games)",
     "genres": "Казуальные игры, Инди, Стратегии",
@@ -814,7 +814,23 @@
     "metacriticUrl": "",
     "website": "https://rogueduck.net",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/f0eaca99709d9048921eec9374c900e642d32481/ss_f0eaca99709d9048921eec9374c900e642d32481.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/b5375b54eeab4b2fa145816cee0518e451c68b6a/ss_b5375b54eeab4b2fa145816cee0518e451c68b6a.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/94a7ea96b387b0dd030a62eb9cb6f1158afac9ef/ss_94a7ea96b387b0dd030a62eb9cb6f1158afac9ef.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/c5bfac744f2b4e66038ee1ff0f2677eadc0a56ee/ss_c5bfac744f2b4e66038ee1ff0f2677eadc0a56ee.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/6eef62ce706e9575ef841e194aa876d9d7057f8e/ss_6eef62ce706e9575ef841e194aa876d9d7057f8e.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/5e0fc2b653667b21df4a12a3b8a02801681af9c8/ss_5e0fc2b653667b21df4a12a3b8a02801681af9c8.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/a5f238bfffd0b1158c0d0e8bfdcecd20eee63375/ss_a5f238bfffd0b1158c0d0e8bfdcecd20eee63375.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/51ed87d6fc6e7ec6c6c430cd5844d639e51bc8da/ss_51ed87d6fc6e7ec6c6c430cd5844d639e51bc8da.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/849d01239035fbf56b7fd882627c078ef531b16a/ss_849d01239035fbf56b7fd882627c078ef531b16a.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/438277e2172a4467aa214ef8ee7a502ccf7c9ff2/ss_438277e2172a4467aa214ef8ee7a502ccf7c9ff2.1920x1080.jpg?t=1790392843",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/f9f37d47629ff1d4492f198cb441b7f82e44c576/ss_f9f37d47629ff1d4492f198cb441b7f82e44c576.1920x1080.jpg?t=1790392843"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3330210/1544402989/2c2310f0b18714f09954390ff76fa3d719cbb032/1778136154/hls_264_master.m3u8?t=1778136897"
+    ]
   },
   {
     "id": 3341000,
