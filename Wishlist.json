@@ -2321,13 +2321,13 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3902800",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3902800/library_600x900_2x.jpg",
-    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3902800?t=1787426808",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/417f91184685b635446fd7fc0449944ac54366a0/header.jpg?t=1790963561",
+    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3902800?t=1790963561",
     "dateRequested": "20.08.2026",
     "year": "2026",
-    "price": "$3.99 / 240 ₽ / 149 ₴ / 1,750 ₸",
+    "price": "$3.59 / 216 ₽ / 134 ₴ / 1,575 ₸",
     "isFree": "false",
-    "datePriceUpdated": "01.09.2026",
+    "datePriceUpdated": "03.10.2026",
     "studios": "[HERROR] (Изд: [HERROR])",
     "genres": "Приключенческие игры, Казуальные игры, Симуляторы",
     "platforms": "Windows",
@@ -2336,7 +2336,26 @@
     "metacriticScore": "Нет оценок",
     "metacriticUrl": "",
     "website": "https://herror.net/",
-    "dlcCount": "1"
+    "dlcCount": "0",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/f7399e2dcb3a55662ad369ee39c35f572577ace9/ss_f7399e2dcb3a55662ad369ee39c35f572577ace9.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/eaab522dd70c60ee8dd64f101369410d2bbb9425/ss_eaab522dd70c60ee8dd64f101369410d2bbb9425.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/6c95bc40cb1e95a85b14c80ca40ea13a4ad31f78/ss_6c95bc40cb1e95a85b14c80ca40ea13a4ad31f78.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/90bc803ba40364b12dea1b48cb4287af2184a174/ss_90bc803ba40364b12dea1b48cb4287af2184a174.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/48eda38e05ba2d29ab176806146820debab70247/ss_48eda38e05ba2d29ab176806146820debab70247.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/0418d9e5f5959698ddd0a0af4f7dfbc802291721/ss_0418d9e5f5959698ddd0a0af4f7dfbc802291721.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/67064b12f171d16034c94fce8f4df19f0b53444f/ss_67064b12f171d16034c94fce8f4df19f0b53444f.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/706e05729d662390d1c393f167fdc47356d57a50/ss_706e05729d662390d1c393f167fdc47356d57a50.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/a7d001a7b9ce3b3190f976a18bb0e1f3b326da4d/ss_a7d001a7b9ce3b3190f976a18bb0e1f3b326da4d.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/c8187edc5bf0fd4c64662dba861f6cfa33c4098c/ss_c8187edc5bf0fd4c64662dba861f6cfa33c4098c.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/3a6941ef44a2fbac497bee558a4b972c8138ea66/ss_3a6941ef44a2fbac497bee558a4b972c8138ea66.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/3816c7e859fa12aa6185f372af28793ad28f048a/ss_3816c7e859fa12aa6185f372af28793ad28f048a.1920x1080.jpg?t=1790963561",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902800/ddb25808079257e38178040c27b43959b3b0ffa1/ss_ddb25808079257e38178040c27b43959b3b0ffa1.1920x1080.jpg?t=1790963561"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3902800/1496628801/f95a6b45f2a3e80a5e3ac8386f9422d13e28828f/1786976282/hls_264_master.m3u8?t=1786977126",
+      "https://video.akamai.steamstatic.com/store_trailers/3902800/1974155761/eef34538d40a8ca343aab6d42ccf0aa45216bfed/1759400302/hls_264_master.m3u8?t=1759401096"
+    ]
   },
   {
     "id": 4989380,
