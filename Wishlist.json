@@ -1900,7 +1900,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/page_bg_raw.jpg?t=1779901265",
     "dateRequested": "07.05.2024",
     "year": "2025",
-    "price": "$14,49 / 1 100 ₽ / 460 ₴ / 7 600 ₸",
+    "price": "$10.14 / 770 ₽ / 322 ₴ / 5,320 ₸",
     "isFree": "false",
     "studios": "Supergiant Games (Изд: Supergiant Games)",
     "genres": "Экшены, Инди, Ролевые игры",
@@ -1911,7 +1911,25 @@
     "metacriticUrl": "https://www.metacritic.com/game/pc/hades-ii?ftag=MCD-06-10aaa1f",
     "website": "http://www.supergiantgames.com",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_ef0f63061d0a0a9a7e46f3b84f125d25330e8f19.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_1845cb4482de047d4780ce9f95b2c5b53714c65e.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_b88cb7b48a86f07a7288bf37141f6558279f9bfc.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_c8d2b18451a2cc4d5b4fdd78ed84a5e64e051eac.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_f366f20f4fb699f6735581e04c7c45a1ef7bd1b8.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_47e14ed55ac7f1bf9266b2cd5b3e4d9eae0ca54c.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_de30f6144ac29280aa5e07d9313c35026f9518a9.1920x1080.jpg?t=1779901265",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/ss_93a2b3a39788031aac115b2edeebcefe585d6c8d.1920x1080.jpg?t=1779901265"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/1067641820/dfba9c6a8b09f5bd9b323d6e699ac685065b93d3/1758924611/hls_264_master.m3u8?t=1758942439",
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/1078171228/d92eb59e06a0bc11acbab62a2fcc3981383b80fa/1758820310/hls_264_master.m3u8?t=1758942440",
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/519255/5ca763163ded88a590accd47a774c99b9deec03c/1750627491/hls_264_master.m3u8?t=1715021708",
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/831414/c475e29924acd1c3b6f49a8231230834e7e52d05/1750627511/hls_264_master.m3u8?t=1750178949",
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/772664/5050056d051c58906915540f8cb0f172eab1f73e/1750627505/hls_264_master.m3u8?t=1729112202",
+      "https://video.akamai.steamstatic.com/store_trailers/1145350/695850/0b4a736847005fc3bf0110bb100cf8eb01fa20d1/1750627504/hls_264_master.m3u8?t=1715021703"
+    ]
   },
   {
     "id": 1286580,
