@@ -1320,7 +1320,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/5f87c76ddccda65eea917981c3cb9ae2953ef80e/page_bg_raw.jpg?t=1784233084",
     "dateRequested": "17.07.2026",
     "year": "2026",
-    "price": "$9,89 / 769 ₽ / 387 ₴ / 5 148 ₸",
+    "price": "$9.89 / 769 ₽ / 387 ₴ / 5,148 ₸",
     "isFree": "false",
     "studios": "SFB Games (Изд: SFB Games)",
     "genres": "Приключенческие игры, Казуальные игры, Инди",
@@ -1331,7 +1331,27 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/7aae8bac3b85ab76a13c24b85843808afc3794c0/ss_7aae8bac3b85ab76a13c24b85843808afc3794c0.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/925c7d125468bef67680c158745ce0d7e4801587/ss_925c7d125468bef67680c158745ce0d7e4801587.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/e6a87f61718f2b1c8b8f473f8e7d9d3ce4982fee/ss_e6a87f61718f2b1c8b8f473f8e7d9d3ce4982fee.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/881d912fc1e4390a1072a21ac3202ca9a14a0882/ss_881d912fc1e4390a1072a21ac3202ca9a14a0882.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/b73fcb2836d83181295efd1067f57fff7685af1f/ss_b73fcb2836d83181295efd1067f57fff7685af1f.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/276773f2d7efb0776fe51dea6f5deb1883a7fae7/ss_276773f2d7efb0776fe51dea6f5deb1883a7fae7.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/0b9948f5ef0b80a8f70e6add42e91e1cd8ced01d/ss_0b9948f5ef0b80a8f70e6add42e91e1cd8ced01d.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/47f469c5b476a4dd0db20f53a983a616804a1336/ss_47f469c5b476a4dd0db20f53a983a616804a1336.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/6f3e03f3186b400b1e8bb739b03dd954f77eae74/ss_6f3e03f3186b400b1e8bb739b03dd954f77eae74.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/2d397f58cce7afdfe47531a7c5250d52c7b75e45/ss_2d397f58cce7afdfe47531a7c5250d52c7b75e45.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/7d979e3a1f620ba9ba549819da6c8bd15437e5d9/ss_7d979e3a1f620ba9ba549819da6c8bd15437e5d9.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/e5f22f6f33b5628058c471f061aedd032e95329d/ss_e5f22f6f33b5628058c471f061aedd032e95329d.1920x1080.jpg?t=1784233084",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696770/b39e73f100a3f516db62ad48ebb08e6e7ea904e6/ss_b39e73f100a3f516db62ad48ebb08e6e7ea904e6.1920x1080.jpg?t=1784233084"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1696770/88034853/3d120881718d56d6501a1d144d340ebba16865df/1784228927/hls_264_master.m3u8?t=1784232234",
+      "https://video.akamai.steamstatic.com/store_trailers/1696770/768038159/894855b7bbc5485f75daa2d4ab6671828d12b252/1780748635/hls_264_master.m3u8?t=1784232235",
+      "https://video.akamai.steamstatic.com/store_trailers/1696770/10317759/796a54e1a23fe4dd673907a70826035e22606afe/1770831499/hls_264_master.m3u8?t=1770832611"
+    ]
   },
   {
     "id": 3722330,
