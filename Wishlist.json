@@ -144,10 +144,10 @@
     "status": "В вишлисте",
     "steamAppId": "2070270",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/2070270/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/page_bg_raw.jpg?t=1787161694",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/page_bg_raw.jpg?t=1790750119",
     "dateRequested": "05.06.2026",
     "year": "2025",
-    "price": "$14,49 / 1 100 ₽ / 600 ₴ / 7 600 ₸",
+    "price": "$9.56 / 726 ₽ / 396 ₴ / 5,016 ₸",
     "isFree": "false",
     "studios": "Noodle Cat Games (Изд: Noodle Cat Games)",
     "genres": "Экшены, Приключенческие игры, Ролевые игры, Ранний доступ",
@@ -158,7 +158,28 @@
     "metacriticUrl": "",
     "website": "https://cloudheimgame.com/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/56606ad8fbde4172b12341e5e55a0d755e5ecf3c/ss_56606ad8fbde4172b12341e5e55a0d755e5ecf3c.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/bd58f0c6c729e6f1c0a204c5222eeb8dedf72fb3/ss_bd58f0c6c729e6f1c0a204c5222eeb8dedf72fb3.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/b8ebdaea4e060d0d7e09d7419c9618b6c61877a9/ss_b8ebdaea4e060d0d7e09d7419c9618b6c61877a9.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ss_ff956b004d1c5045637326645a23fb8495e16122.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ss_0f5a285a0994956d7d91e03c937ef7054a6bd4bb.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/3187e12d0484a95a37e229a25ba1547cb7ae913b/ss_3187e12d0484a95a37e229a25ba1547cb7ae913b.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/5e9047185a9bfb151d805e2f8e87d920da91bc9f/ss_5e9047185a9bfb151d805e2f8e87d920da91bc9f.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ab10c683c8505d3d7878a267cbddd1f71fbd60bc/ss_ab10c683c8505d3d7878a267cbddd1f71fbd60bc.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ss_bee27c463261a5197bb03f1ca779a2b5dc94fb8e.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ss_ecf5ea829ed1d48d597ff20a6f68f974128d5e0f.1920x1080.jpg?t=1790750119",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2070270/ss_26a36d4a27fac6ae8a3556d41c27b763967ef336.1920x1080.jpg?t=1790750119"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1061596565/f31eaf1652bd335835104d99f8dca0470dba4a7d/1764865663/hls_264_master.m3u8?t=1784961794",
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1420345709/3fae782eb078bd21139dc9b88601b11dee92bb51/1758559508/hls_264_master.m3u8?t=1784961796",
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1015509473/45911c1906cff57045b95d6aaf76e5108011b892/1751071437/hls_264_master.m3u8?t=1784961797",
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1950486769/0db974ad8c1fcb4446c1d6cff333f7b13a45f88b/1780332917/hls_264_master.m3u8?t=1780333642",
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1977576399/809481b21a596a5d6830ee642ac944c5ab703397/1769014724/hls_264_master.m3u8?t=1784961793",
+      "https://video.akamai.steamstatic.com/store_trailers/2070270/1276888769/59430c41f1d316f15c4ede27360bff11e8ca4fb5/1761247022/hls_264_master.m3u8?t=1784961795"
+    ]
   },
   {
     "id": 2100020,
