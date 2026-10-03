@@ -2917,7 +2917,7 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4174160",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4174160/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/5667599ad193be05f246a955042a5e0dfc66b7d9/header.jpg?t=1787829620",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/1fbba175debca32a77a7285b2ce4998f00df6cdf/page_bg_raw.jpg?t=1787829620",
     "dateRequested": "15.03.2026",
     "year": "????",
@@ -2933,7 +2933,32 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://assets-prd.ignimgs.com/2026/01/20/project-doors-button-1768928096924.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/383c55c58c93c5f827de17706379179dc0996586/ss_383c55c58c93c5f827de17706379179dc0996586.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/7d533e6325cb19c66b5932c12f5ff8894b487f4c/ss_7d533e6325cb19c66b5932c12f5ff8894b487f4c.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/163cba18f1ed9cdcd16755f61e9d8e66cca10d72/ss_163cba18f1ed9cdcd16755f61e9d8e66cca10d72.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/b811ce68fb8f70b06a24ef4cd586490b724246dc/ss_b811ce68fb8f70b06a24ef4cd586490b724246dc.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/dff959c7b4cab0c9a2fa17b60eacecf22ed3c185/ss_dff959c7b4cab0c9a2fa17b60eacecf22ed3c185.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/cc86d46a7e5a8650a009272af8c0d050b3f7f904/ss_cc86d46a7e5a8650a009272af8c0d050b3f7f904.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/9fe2c2e4779f94d7a9c1780409574853652e82b8/ss_9fe2c2e4779f94d7a9c1780409574853652e82b8.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/6cc5a32c4f58cdc3fa7ca74a2ba9918c1a5e848b/ss_6cc5a32c4f58cdc3fa7ca74a2ba9918c1a5e848b.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/6b15455098730d001820a76d759648a500a5c97f/ss_6b15455098730d001820a76d759648a500a5c97f.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/6ccffcaaa52fc63cd85627503b06b1c5f08dae8b/ss_6ccffcaaa52fc63cd85627503b06b1c5f08dae8b.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/ea36d12dacca4d34b6876e242647b230a452acd0/ss_ea36d12dacca4d34b6876e242647b230a452acd0.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/2ecdcd67cb47d5c079e4c2fb2345f94e941f3334/ss_2ecdcd67cb47d5c079e4c2fb2345f94e941f3334.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/8603ebf18fe08951635ac901c2501aa0e5ccb422/ss_8603ebf18fe08951635ac901c2501aa0e5ccb422.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/81d69cbcb2d841296ac7dae33a2b1668108344a0/ss_81d69cbcb2d841296ac7dae33a2b1668108344a0.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/23f2a77ebe6f3e6d2aa5101d907909bdd93fc323/ss_23f2a77ebe6f3e6d2aa5101d907909bdd93fc323.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/ed898d40cdb1f5524aa4cc6b77c83ab7ea6f2fc7/ss_ed898d40cdb1f5524aa4cc6b77c83ab7ea6f2fc7.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/6e8d639f5bedbba229ccc3bff52208727d309b07/ss_6e8d639f5bedbba229ccc3bff52208727d309b07.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/5cba18d72400bb04421daf26230174c740ef970e/ss_5cba18d72400bb04421daf26230174c740ef970e.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/93494f1519365805dfd2d5dd6bd0341b2b2f881d/ss_93494f1519365805dfd2d5dd6bd0341b2b2f881d.1920x1080.jpg?t=1787829620",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4174160/c2d1388486ef6b4e601b846fd007dc61841dd4bf/ss_c2d1388486ef6b4e601b846fd007dc61841dd4bf.1920x1080.jpg?t=1787829620"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4174160/946105955/85a2547f81b62471dbd90e0f699d2b3d80f3c05e/1778077533/hls_264_master.m3u8?t=1778168459"
+    ]
   },
   {
     "id": 4256070,
