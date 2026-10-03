@@ -2966,11 +2966,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4256070",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4256070/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/df364d8984926607b6280340fb155e9f82b7acef/header.jpg?t=1787850188",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/29b4dde79631935f4772b1c08a9781fa358adbd1/page_bg_raw.jpg?t=1787850188",
     "dateRequested": "06.03.2026",
     "year": "2026",
-    "price": "$4,99 / 320 ₽ / 187 ₴ / 2 300 ₸",
+    "price": "$2.49 / 160 ₽ / 93 ₴ / 1,150 ₸",
     "isFree": "false",
     "studios": "Wazang Games (Изд: Wazang Games)",
     "genres": "Казуальные игры, Инди, Стратегии",
@@ -2982,7 +2982,24 @@
     "website": "http://wazanggames.com/games/mayday-protocol/",
     "dlcCount": "0",
     "altPoster": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/cobojr.jpg",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/dc6456a2860cfa62e753a5a4624eac90656b7c85/ss_dc6456a2860cfa62e753a5a4624eac90656b7c85.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/8e73bdec9bf9e0fd400c3ba90da0ff2dfd4a6106/ss_8e73bdec9bf9e0fd400c3ba90da0ff2dfd4a6106.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/ef4cd49da05bf08c808b251c462387aa617e8fd0/ss_ef4cd49da05bf08c808b251c462387aa617e8fd0.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/556724dfcdf7303ff4940c9bf797f883e3d92677/ss_556724dfcdf7303ff4940c9bf797f883e3d92677.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/b30c3977e92e3643fa5571eedc841db4122705b1/ss_b30c3977e92e3643fa5571eedc841db4122705b1.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/8bffff6f50af18c909023cabd4299809cdacd8f3/ss_8bffff6f50af18c909023cabd4299809cdacd8f3.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/57750312d7d0423c2e5184e955461c342c4c268b/ss_57750312d7d0423c2e5184e955461c342c4c268b.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/9590cca99a62aab449d3ef1ad745e680b02aa2aa/ss_9590cca99a62aab449d3ef1ad745e680b02aa2aa.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/9e22280915fce7a653f0e40a8cd8384fd6f40054/ss_9e22280915fce7a653f0e40a8cd8384fd6f40054.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/3f768b7db4cdaea06b09be39e43c816c5c3d3aaf/ss_3f768b7db4cdaea06b09be39e43c816c5c3d3aaf.1920x1080.jpg?t=1787850188",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4256070/75f0ad49f4c8ee60dfc6f822713d6a55170a1050/ss_75f0ad49f4c8ee60dfc6f822713d6a55170a1050.1920x1080.jpg?t=1787850188"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4256070/1356486283/e2700204341821c9bc35ed9edd8242faacf9f15d/1771783824/hls_264_master.m3u8?t=1771785553",
+      "https://video.akamai.steamstatic.com/store_trailers/4256070/2067185434/589c56026b9188c45cc0e4f1d59124cff546e45f/1769366445/hls_264_master.m3u8?t=1771785554"
+    ]
   },
   {
     "id": 4158870,
