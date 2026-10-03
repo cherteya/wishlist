@@ -1316,11 +1316,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4992070",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4992070/library_600x900_2x.jpg",
-    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4992070?t=1787671820",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/52ee7fca29b20f089decc254088b4beba0eea112/header.jpg?t=1790709682",
+    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4992070?t=1790709682",
     "dateRequested": "14.08.2026",
     "year": "2026",
-    "price": "$3,99 / 290 ₽ / 155 ₴ / 1 930 ₸",
+    "price": "$3.59 / 261 ₽ / 139 ₴ / 1,737 ₸",
     "isFree": "false",
     "studios": "Mr.Duck (Изд: Mr.Duck)",
     "genres": "Казуальные игры, Симуляторы",
@@ -1332,7 +1332,20 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2026/08/sort-them-ducks-tag-page-cover-art.jpg?q=50&fit=crop&w=480&h=600&dpr=1.5",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/9aa494251b75093ba659438969c6b0b019a7a784/ss_9aa494251b75093ba659438969c6b0b019a7a784.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/eed32200fc52bfe1fbe4a32c1abc5779516f54f5/ss_eed32200fc52bfe1fbe4a32c1abc5779516f54f5.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/fd52600c2ff71077c4de7489cd707c9cd14e206c/ss_fd52600c2ff71077c4de7489cd707c9cd14e206c.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/851c391a8308796251755e798724483b7b3bee39/ss_851c391a8308796251755e798724483b7b3bee39.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/67cf163c916672c18e56cb66d6ca94e741d3ada6/ss_67cf163c916672c18e56cb66d6ca94e741d3ada6.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/c2c6c82a61eb8d8309467967ad016c3172edc597/ss_c2c6c82a61eb8d8309467967ad016c3172edc597.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/b5a8e6eeab87b03d1972011a0139722b34e0ebd3/ss_b5a8e6eeab87b03d1972011a0139722b34e0ebd3.1920x1080.jpg?t=1790709682",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992070/32c4eb6fb72d81d68cf40d664513d19921f72170/ss_32c4eb6fb72d81d68cf40d664513d19921f72170.1920x1080.jpg?t=1790709682"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4992070/1539188594/8d91de1d2dc72379aaa384b0323b04935f073656/1786627646/hls_264_master.m3u8?t=1786629269"
+    ]
   },
   {
     "id": 4369130,
