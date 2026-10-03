@@ -2851,7 +2851,7 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4328440",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4328440/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/c70e704ad9ea230fa3ae0fff0fac55369bf7fb3b/header.jpg?t=1774263285",
     "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4328440?t=1774263285",
     "dateRequested": "18.03.2026",
     "year": "????",
@@ -2867,7 +2867,20 @@
     "website": "https://www.gazeingames.com/",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvntdCM0E4D5fqg12ZG-7Hg3TsbWrWcVLEarC9l85uqFcHynpo1WKN3V4&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/9e5c5dd2f5bc849374b75e9c233dfa30dde3e591/ss_9e5c5dd2f5bc849374b75e9c233dfa30dde3e591.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/7f7da3c18f04f52d479ee26b151fc3f7673539ca/ss_7f7da3c18f04f52d479ee26b151fc3f7673539ca.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/81cf1082f24df8d8f1c8e4e94a32d53659f78b01/ss_81cf1082f24df8d8f1c8e4e94a32d53659f78b01.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/404188fba19aa3db7be1c92fa1e582ac1395a054/ss_404188fba19aa3db7be1c92fa1e582ac1395a054.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/98b43e262553e288bd3a0fe1f63eb12e3037e5ff/ss_98b43e262553e288bd3a0fe1f63eb12e3037e5ff.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/de92e816df584d910c1dfb2cc65a4243edbde367/ss_de92e816df584d910c1dfb2cc65a4243edbde367.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/81cdda85844d5e77a9ba5050f814e8f4a1bfea86/ss_81cdda85844d5e77a9ba5050f814e8f4a1bfea86.1920x1080.jpg?t=1774263285",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4328440/618f44eaecea8c15e364b80bccd8dc0e6b51678e/ss_618f44eaecea8c15e364b80bccd8dc0e6b51678e.1920x1080.jpg?t=1774263285"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4328440/52381223/5aefc388f807aedcaca69b111fab2aacc3a5f79c/1771600327/hls_264_master.m3u8?t=1773755596"
+    ]
   },
   {
     "id": 4174160,
