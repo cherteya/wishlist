@@ -157,7 +157,23 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_078e44e06c2a00ae7b51ab47234e430ec11dcf12.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_3ee29934a2c5d7e63242617f7b7288fbf78b9a2b.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_ca989a73761b5616ae5333b3f7d57e54898072c4.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_e77eaeabe49235a23dc08d1a624bd93398a5865c.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_7e66e689448a5c1dcd95eb6423ba96e7190ec2d6.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_7ce580e81295f0754f3006a3c86db13946444d57.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_2713d4c4febaec4889954a4e1244929506106691.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_eb9f53b58aaba265d620d2d98acf36605e371508.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_1951024abc8a6f2b952058293afbd9590a3b50ef.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_ae9bc42a913c9e05d6c0d90a5d5288d9ec75b97b.1920x1080.jpg?t=1787925914",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055770/ss_7aaddc0a67bddd1737b831f5f072d3956a51fa5b.1920x1080.jpg?t=1787925914"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2055770/487413/51b080e3db8fb4d0f640048a90c0a3cc4dc1388b/1751069618/hls_264_master.m3u8?t=1660633383"
+    ]
   },
   {
     "id": 2058140,
