@@ -74,10 +74,10 @@
     "status": "В вишлисте",
     "steamAppId": "1904480",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/1904480/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/708a77b563437cdb219a8cab70128f3cccf382e3/page_bg_raw.jpg?t=1782461798",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/708a77b563437cdb219a8cab70128f3cccf382e3/page_bg_raw.jpg?t=1790865610",
     "dateRequested": "19.11.2025",
     "year": "2025",
-    "price": "$12,49 / 880 ₽ / 515 ₴ / 6 400 ₸",
+    "price": "$9.36 / 660 ₽ / 386 ₴ / 4,800 ₸",
     "isFree": "false",
     "studios": "Dotemu, Guard Crush Games, Supamonks (Изд: Dotemu, Gamirror Games)",
     "genres": "Экшены, Приключенческие игры, Инди, Ролевые игры",
@@ -88,7 +88,30 @@
     "metacriticUrl": "https://www.metacritic.com/game/pc/absolum?ftag=MCD-06-10aaa1f",
     "website": "https://www.playabsolum.com/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d71352f60e6b4cc27c5b9a224d6827ec647d2fac/ss_d71352f60e6b4cc27c5b9a224d6827ec647d2fac.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/7eb27341f5ce29c6deccfde32792fd9a156ff57a/ss_7eb27341f5ce29c6deccfde32792fd9a156ff57a.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c678e413a5268e5a60e9ec08dfa6dc3e079e432e/ss_c678e413a5268e5a60e9ec08dfa6dc3e079e432e.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2/ss_d9b75c8a2e9dc9ddb09f8390f23e9e8ed44111c2.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/ea0656207cbaf00003294eee4ce963b6df166916/ss_ea0656207cbaf00003294eee4ce963b6df166916.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/c8246fcdb78cab61fba6d1ac8265982e9d601ac5/ss_c8246fcdb78cab61fba6d1ac8265982e9d601ac5.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/b3a8d0020cec236134d98cae4f3c3cea31258a0f/ss_b3a8d0020cec236134d98cae4f3c3cea31258a0f.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/e409fa794bdb1f938e2f9eb4c099a69cc567e1f6/ss_e409fa794bdb1f938e2f9eb4c099a69cc567e1f6.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/d63a25ed4dfdd40c56ca9183f5269c013bdcaa9b/ss_d63a25ed4dfdd40c56ca9183f5269c013bdcaa9b.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/0f55b2190d847601a4576c6008c04a00620ee96b/ss_0f55b2190d847601a4576c6008c04a00620ee96b.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/bc8ceff4c2af27b2f7b475e4dce00cbfb6505778/ss_bc8ceff4c2af27b2f7b475e4dce00cbfb6505778.1920x1080.jpg?t=1790865610",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1904480/0f34686ccbba73337c7da08dd355b728a91adb6b/ss_0f34686ccbba73337c7da08dd355b728a91adb6b.1920x1080.jpg?t=1790865610"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/786633270/1820398116f9f64e217f391831d9a93433bc4143/1770885843/hls_264_master.m3u8?t=1770912191",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/342240945/d6cc68f9cdf4eb1a16a3915726b00853f0e6e4aa/1758208906/hls_264_master.m3u8?t=1758219536",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/1170748570/4afe2e5864670282408b7872eeca33e04a360f58/1760691988/hls_264_master.m3u8?t=1770912198",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/333636275/910bf9cd30a89118f391d98fa5c122f603418830/1759933331/hls_264_master.m3u8?t=1760022715",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/1751808724/0be16661bbf2062b3228a0d654d792a38f9039b7/1755616540/hls_264_master.m3u8?t=1755625525",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/831625/1b0d8d268b0d13ab65f18f1a50d18cb293cfbc68/1751494319/hls_264_master.m3u8?t=1741103500",
+      "https://video.akamai.steamstatic.com/store_trailers/1904480/1067131264/692c3d69c1328f83e8f2e13a5a2a3a419889154d/1751045776/hls_264_master.m3u8?t=1748973916"
+    ]
   },
   {
     "id": 1954200,
