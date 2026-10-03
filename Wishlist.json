@@ -411,7 +411,22 @@
     "metacriticUrl": "",
     "website": "https://flywaygames.com/en/game/waltz-jam",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/875f336174e9d1beed2df479b1c5c4a60a79c2df/ss_875f336174e9d1beed2df479b1c5c4a60a79c2df.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/bc318e5388b7d85795232f74d671c008a468342f/ss_bc318e5388b7d85795232f74d671c008a468342f.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/a0d651500e44f2739df6c89aec5932929e90834c/ss_a0d651500e44f2739df6c89aec5932929e90834c.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/8d799a84d09504815a4853cbdb329b8c3a32a2de/ss_8d799a84d09504815a4853cbdb329b8c3a32a2de.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/0012a88a24f2c250d52d1842428ebc3e94d9e497/ss_0012a88a24f2c250d52d1842428ebc3e94d9e497.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/2d206ea2c578b747f638f61ec684720315f6fbc0/ss_2d206ea2c578b747f638f61ec684720315f6fbc0.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/416430f73691e6499efadd03d39ebc59af3e49ef/ss_416430f73691e6499efadd03d39ebc59af3e49ef.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/6b626e8caa4d4367ac8ea90b5eb66252062e7929/ss_6b626e8caa4d4367ac8ea90b5eb66252062e7929.1920x1080.jpg?t=1787739066",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686570/f8eae08fee1de0e1cf6346401a646229cbb36c9b/ss_f8eae08fee1de0e1cf6346401a646229cbb36c9b.1920x1080.jpg?t=1787739066"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2686570/1920992300/0028c2e1a514c239f25d06056ea369d04129ce43/1783306560/hls_264_master.m3u8?t=1783331059",
+      "https://video.akamai.steamstatic.com/store_trailers/2686570/707017/6013a533e36d41de4d9da622fbfbcf38b946a758/1750943178/hls_264_master.m3u8?t=1783312989"
+    ]
   },
   {
     "id": 2686630,
