@@ -2119,11 +2119,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4162290",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4162290/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/ed51f06a462f98854a5b8a265a05b3a08c469ab9/header.jpg?t=1787041457",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/af47ce692a6d0a21c3855d40c9d38892eda3d2e2/page_bg_raw.jpg?t=1787041457",
     "dateRequested": "16.06.2026",
     "year": "2026",
-    "price": "$4,99 / 385 ₽ / 195 ₴ / 2 530 ₸",
+    "price": "$3.09 / 238 ₽ / 120 ₴ / 1,568 ₸",
     "isFree": "false",
     "studios": "Pugsy Studios (Изд: GameDev.ist)",
     "genres": "Экшены, Приключенческие игры, Инди, Ранний доступ",
@@ -2135,7 +2135,26 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://www.allkeyshop.com/blog/wp-content/uploads/buy-ok-boomer-cd-key-compare-prices.jpg",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/6be16c0a2cda0a6a3484a17f05abdfbce72d9336/ss_6be16c0a2cda0a6a3484a17f05abdfbce72d9336.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/bb3198f7964618fb522873952954d9e7cd99b021/ss_bb3198f7964618fb522873952954d9e7cd99b021.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02/ss_0d589105fc54e5f8f8eecc7fc1b2d0683e10dd02.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/68d66c3cb96db9e18c548eba6ad73dde4d9946b4/ss_68d66c3cb96db9e18c548eba6ad73dde4d9946b4.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/3c4041ef2675fe4e115e85a9ea121fceabd9a8b3/ss_3c4041ef2675fe4e115e85a9ea121fceabd9a8b3.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/66e2bfa70d4805cb17e4dd3268da1fd61e31f53c/ss_66e2bfa70d4805cb17e4dd3268da1fd61e31f53c.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/c40d192397c87d03915a62ed06353287b06e30b7/ss_c40d192397c87d03915a62ed06353287b06e30b7.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/3c67984ceb85716397029e6b2f3d47d7a9e12f75/ss_3c67984ceb85716397029e6b2f3d47d7a9e12f75.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/bd49ad84933d09ecb9c0bca6f0d0f99e5ac5a29e/ss_bd49ad84933d09ecb9c0bca6f0d0f99e5ac5a29e.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/419877ecc865a7be379ef0a0c54f00de95a3e08b/ss_419877ecc865a7be379ef0a0c54f00de95a3e08b.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/5352b2f2ef40e0e2f078c2ac6c9a230d590fdcbe/ss_5352b2f2ef40e0e2f078c2ac6c9a230d590fdcbe.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/e442acab8276803dacfbcbb2c3978d08d8031637/ss_e442acab8276803dacfbcbb2c3978d08d8031637.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/4e10b7178ae8dec088a1a944a42ae46344c0c04b/ss_4e10b7178ae8dec088a1a944a42ae46344c0c04b.1920x1080.jpg?t=1787041457",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162290/60c0190f03a1644252638b07fc3a1e5c0b45422b/ss_60c0190f03a1644252638b07fc3a1e5c0b45422b.1920x1080.jpg?t=1787041457"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4162290/784081129/c9e89e746625307a4a69be88618c5ed410b9d1a5/1779099862/hls_264_master.m3u8?t=1779793846"
+    ]
   },
   {
     "id": 4380490,
