@@ -1002,7 +1002,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/34252f33ae241fdef2b2895dfeefe0543881be01/page_bg_raw.jpg?t=1770169624",
     "dateRequested": "13.11.2025",
     "year": "2025",
-    "price": "$36,99 / ~3 178 ₽ / 1 475 ₴ / 19 000 ₸",
+    "price": "Неизвестно",
     "isFree": "false",
     "studios": "NeoBards Entertainment Ltd. (Изд: KONAMI)",
     "genres": "Экшены, Приключенческие игры",
@@ -1013,7 +1013,26 @@
     "metacriticUrl": "",
     "website": "https://www.konami.com/games/silenthill/f/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/93e420a6665b42229735a3495b86bd35b7cb8c53/ss_93e420a6665b42229735a3495b86bd35b7cb8c53.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/fdfc1171e15f271eb16750cd0e5575e5e312a6af/ss_fdfc1171e15f271eb16750cd0e5575e5e312a6af.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/212938a6419ccb6f2d2b6bdfe9c09a2600b7d846/ss_212938a6419ccb6f2d2b6bdfe9c09a2600b7d846.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/596675f3269d51ef397a7db04a08199fe1987ff1/ss_596675f3269d51ef397a7db04a08199fe1987ff1.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/c2a0f8efcb4cc01d3046a5c68675f9c811ee90e4/ss_c2a0f8efcb4cc01d3046a5c68675f9c811ee90e4.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/0052fc9d54c4b4f1588b798a6638556c6b5d4db2/ss_0052fc9d54c4b4f1588b798a6638556c6b5d4db2.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/c044355340e36cfbfa67b7e386b71318a1ff75f1/ss_c044355340e36cfbfa67b7e386b71318a1ff75f1.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/60a9221ab0c30b57921644c0e0419d65e7909755/ss_60a9221ab0c30b57921644c0e0419d65e7909755.1920x1080.jpg?t=1770169624",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/b9add2b5ab7080498ef30b2ebe3da94ce09c9637/ss_b9add2b5ab7080498ef30b2ebe3da94ce09c9637.1920x1080.jpg?t=1770169624"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/1599222287/ea6c61054761168e329da8165ea7eb9e74e74aae/1762933650/hls_264_master.m3u8?t=1763007191",
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/526565829/f5c08af090f9923e3ec6458dcc6fbc4f4dcca4e6/1758554578/hls_264_master.m3u8?t=1758558344",
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/1028761827/7ca48c6b5ebed4a3b0805b2192dc70e6594fa316/1755674933/hls_264_master.m3u8?t=1758558346",
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/1927287454/bc197291d02f7e4c48e0dd1a7c92628199754a9e/1750822083/hls_264_master.m3u8?t=1749078754",
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/848735/886582205f3b3f23f94a5b6ab59ce818f0a5d762/1750822049/hls_264_master.m3u8?t=1741903236",
+      "https://video.akamai.steamstatic.com/store_trailers/2947440/840894/8002584e420a1c4a417aa6a26068872ec46114f5/1750822034/hls_264_master.m3u8?t=1741903244"
+    ]
   },
   {
     "id": 3024130,
