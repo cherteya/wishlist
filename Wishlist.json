@@ -1373,7 +1373,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/page_bg_raw.jpg?t=1763509556",
     "dateRequested": "13.07.2025",
     "year": "2025",
-    "price": "$2,19 / 125 ₽ / 74 ₴ / 890 ₸",
+    "price": "$2.19 / 125 ₽ / 74 ₴ / 890 ₸",
     "isFree": "false",
     "studios": "Nachosama Games (Изд: Nachosama Games)",
     "genres": "Приключенческие игры, Казуальные игры, Инди, Симуляторы",
@@ -1384,7 +1384,25 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_460aa8790fc8393619042d49513c45111cf3ff7a.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_821bd0c6ea01fb4229235e7be9db8bb85b9c61b2.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/c2b502c16a3536d7207cee0ff33580da4cc687b0/ss_c2b502c16a3536d7207cee0ff33580da4cc687b0.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/e9dba523f5f475471c7c8a1f73eec893da36037e/ss_e9dba523f5f475471c7c8a1f73eec893da36037e.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/386963e4a336bc5b7d64322cc399d934ab266d71/ss_386963e4a336bc5b7d64322cc399d934ab266d71.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/bc64be5aaa6ae7966047e5152e87836954f9bae6/ss_bc64be5aaa6ae7966047e5152e87836954f9bae6.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_045113996d8a757a6c94983b7bf468db8d3eb18e.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/c60b515988070391e540b3b9e4906d6be197a206/ss_c60b515988070391e540b3b9e4906d6be197a206.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_8d8b3a4d052a5a523535e9b3ef6728ba371817c2.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_bd5f3083dd1a1872be8d19ea9517048a3fc0bff8.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/0fc260d3e332b24c6d6ada38043483dfd8f28135/ss_0fc260d3e332b24c6d6ada38043483dfd8f28135.1920x1080.jpg?t=1763509556",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3431040/ss_463f9a711c079ac7030a9ba28fecdf99ea38f617.1920x1080.jpg?t=1763509556"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3431040/842713/c6d64099bdaa2790c295744a8e311c164e67dd7d/1750826051/hls_264_master.m3u8?t=1741107382",
+      "https://video.akamai.steamstatic.com/store_trailers/3431040/813999/5719c592771a70eecf7fd2d19f10a654f5bb2b07/1750826050/hls_264_master.m3u8?t=1737149156"
+    ]
   },
   {
     "id": 3467040,
