@@ -480,10 +480,10 @@
     "status": "В вишлисте",
     "steamAppId": "2209900",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/2209900/library_600x900_2x.jpg",
-    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2209900?t=1783444081",
+    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2209900?t=1790728927",
     "dateRequested": "25.07.2023",
     "year": "2026",
-    "price": "$24,49 / 2 150 ₽ / 1 260 ₴ / 13 350 ₸",
+    "price": "$20.81 / 1,827 ₽ / 1,071 ₴ / 11,347 ₸",
     "isFree": "false",
     "studios": "Little Chicken (Изд: XSEED Games, Marvelous Europe)",
     "genres": "Казуальные игры, Инди, Ролевые игры, Симуляторы",
@@ -494,7 +494,28 @@
     "metacriticUrl": "",
     "website": "https://www.moonlightpeaks.com/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/ss_c3ce821141f5bb624c1c8bfdb09747c3d96a9782.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/647c28932cea008c5a579f746c713181325b4c03/ss_647c28932cea008c5a579f746c713181325b4c03.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/04f1cbdbeb1a930bf1b95fcd0cfb5edbbeafbbba/ss_04f1cbdbeb1a930bf1b95fcd0cfb5edbbeafbbba.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/069ad70b27eaffc35fc97a5aad6770f66dfc5d34/ss_069ad70b27eaffc35fc97a5aad6770f66dfc5d34.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/cb0f505d01a6475d824833c7c2ae5eda07f6790a/ss_cb0f505d01a6475d824833c7c2ae5eda07f6790a.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/4673dedf6eb8f204815b1149a18af9540de71581/ss_4673dedf6eb8f204815b1149a18af9540de71581.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/ss_cec1c9ee599b0c24b096dca38535906d7a838af1.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/0aff9e9221071bd443ac5ba631415d2172370b81/ss_0aff9e9221071bd443ac5ba631415d2172370b81.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/fba109000f1e99d597f793057e295defd833c2ac/ss_fba109000f1e99d597f793057e295defd833c2ac.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/5ebb570c7390ce38c8087ff999845536dc685b76/ss_5ebb570c7390ce38c8087ff999845536dc685b76.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/4bbcceb38c9309cd2e4119e77e22532506401b98/ss_4bbcceb38c9309cd2e4119e77e22532506401b98.1920x1080.jpg?t=1790728927",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/ss_f41a3f23b4678aa38747e56592c87474ba2cb7d8.1920x1080.jpg?t=1790728927"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2209900/848073640/728452bd4f9ec0023288f4e53fd7e9b76e01c0bb/1783396982/hls_264_master.m3u8?t=1783444077",
+      "https://video.akamai.steamstatic.com/store_trailers/2209900/647517277/94a8973e97a8dfdf20c80702dcc795fb647eda51/1781288884/hls_264_master.m3u8?t=1781289409",
+      "https://video.akamai.steamstatic.com/store_trailers/2209900/734023614/edd69d51501a120c00b89e7e9ca97316952484aa/1772675877/hls_264_master.m3u8?t=1772680698",
+      "https://video.akamai.steamstatic.com/store_trailers/2209900/804373064/61dccedcc015062a8f2d8bd9ac2bf0a621a96201/1756215288/hls_264_master.m3u8?t=1756219517",
+      "https://video.akamai.steamstatic.com/store_trailers/2209900/580517/2d5870b89c0cc801b29eb471207ffaad8fde3b26/1751090470/hls_264_master.m3u8?t=1756219520"
+    ]
   },
   {
     "id": 2253100,
