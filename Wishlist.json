@@ -1526,8 +1526,8 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4075740",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4075740/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/57a1cf22861fd3cebb4f95b036edf9dccb768dcb/page_bg_raw.jpg?t=1786225826",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/a359d1e4b077fec5d7a57fdf0bba28f1121890e5/header.jpg?t=1789563559",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/57a1cf22861fd3cebb4f95b036edf9dccb768dcb/page_bg_raw.jpg?t=1789563559",
     "dateRequested": "07.08.2026",
     "year": "????",
     "price": "Неизвестно",
@@ -1542,7 +1542,22 @@
     "website": "https://www.redknot.games",
     "dlcCount": "0",
     "altPoster": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/coc4gf.jpg",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/78e600c166a37cf510295acd6dcd6e2d78552bba/ss_78e600c166a37cf510295acd6dcd6e2d78552bba.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/405b39e4c75055fc99652c042e9c2071dffa382b/ss_405b39e4c75055fc99652c042e9c2071dffa382b.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/952e12fda6ff4864b32f49d217bfa63bd8624d58/ss_952e12fda6ff4864b32f49d217bfa63bd8624d58.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/8c0da2e9d38d8e93186b5443217d420d31682518/ss_8c0da2e9d38d8e93186b5443217d420d31682518.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/327070df6b5ac0b4dadccf97485ebffc1a56f8fa/ss_327070df6b5ac0b4dadccf97485ebffc1a56f8fa.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/93bb2a177a2c20e3dfd752c48e3854340e0308a9/ss_93bb2a177a2c20e3dfd752c48e3854340e0308a9.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/3fa974cbcd71ec4d3ae48fd3f51bc2a17110e270/ss_3fa974cbcd71ec4d3ae48fd3f51bc2a17110e270.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/632baa0b77a4a82e6dfd5a8006464622fc564e9d/ss_632baa0b77a4a82e6dfd5a8006464622fc564e9d.1920x1080.jpg?t=1789563559",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4075740/1fcf497de0dcd1b2956e63428c1315f99009c272/ss_1fcf497de0dcd1b2956e63428c1315f99009c272.1920x1080.jpg?t=1789563559"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4075740/474785694/32522be3ff9b9dabd57993fc15ec900dfe336f71/1777553337/hls_264_master.m3u8?t=1777640443",
+      "https://video.akamai.steamstatic.com/store_trailers/4075740/372088467/eac154e95218e5a9ec3b95bef173521a83d6bcae/1786124327/hls_264_master.m3u8?t=1786124966"
+    ]
   },
   {
     "id": 4935510,
