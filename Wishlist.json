@@ -1009,7 +1009,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/06c096cf9067b8b0fd34c09d3c123a6bab9dfa9d/page_bg_raw.jpg?t=1783346058",
     "dateRequested": "08.04.2026",
     "year": "2025",
-    "price": "$4,19 / 343 ₽ / 132 ₴ / 2 099 ₸",
+    "price": "$4.19 / 343 ₽ / 132 ₴ / 2,099 ₸",
     "isFree": "false",
     "studios": "Sam C (Изд: Oro Interactive)",
     "genres": "Казуальные игры, Инди, Гонки, Симуляторы",
@@ -1020,7 +1020,23 @@
     "metacriticUrl": "",
     "website": "https://samcameron.notion.site/Easy-Delivery-Co-1075801d32f78020b196c05dbee18ec0",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/125f45762e597b3afb008aee8bbefac19ba02941/ss_125f45762e597b3afb008aee8bbefac19ba02941.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/cf5ed0c38426b0b7d592fd7d5d9006043e2fa948/ss_cf5ed0c38426b0b7d592fd7d5d9006043e2fa948.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/2df6e79b65c499cd45590df8b1cbf0a705a2a6a8/ss_2df6e79b65c499cd45590df8b1cbf0a705a2a6a8.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/287ddbe79e43b36d1ab74111609212f8cc7aeb64/ss_287ddbe79e43b36d1ab74111609212f8cc7aeb64.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/b44a25aaae8d91772613af7a3334084bbbb76c4c/ss_b44a25aaae8d91772613af7a3334084bbbb76c4c.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/ef75d56aced607ac06e8f01bb4eee91c22574149/ss_ef75d56aced607ac06e8f01bb4eee91c22574149.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/b18bce54e569db1c1dc1dc9748807be290368f9d/ss_b18bce54e569db1c1dc1dc9748807be290368f9d.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/9eb8f4e5b90e003fd593f111b2a13332ee682b30/ss_9eb8f4e5b90e003fd593f111b2a13332ee682b30.1920x1080.jpg?t=1783346058",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3293010/e4a98b2934d35ce7e20da63507f417ecaf11d3fc/ss_e4a98b2934d35ce7e20da63507f417ecaf11d3fc.1920x1080.jpg?t=1783346058"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3293010/673004916/60bc87b038db4a43e77bfa6d4f32d7ddf4260ff5/1758192057/hls_264_master.m3u8?t=1758204027",
+      "https://video.akamai.steamstatic.com/store_trailers/3293010/431567510/9048e551835d8d39959ec54de5e86a48773aff45/1783345672/hls_264_master.m3u8?t=1783346057",
+      "https://video.akamai.steamstatic.com/store_trailers/3293010/875421/93540f857ad241dee87d7de9c92568c971b62949/1750976462/hls_264_master.m3u8?t=1758194024"
+    ]
   },
   {
     "id": 3330210,
