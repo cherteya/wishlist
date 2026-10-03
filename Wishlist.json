@@ -1170,7 +1170,20 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_d09106060fb7de8bf342c23df18b14debc8a15a3.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_271f850eec3f96b22aa17be35b948268e0771c7f.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_15f5759c441e4e5f51e1a8ee333e4ab9df9aa783.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_f7cf51f1ccd909264f2c5814f328e3f72e7b62bd.1920x1080.jpg?t=1776465788",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/ss_9db45aa04e8c8b5043b479f42ed36296bfc3a918.1920x1080.jpg?t=1776465788"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1151640/485458/b72c7c802a69651c05bdeeb5e847600319226b41/1750629501/hls_264_master.m3u8?t=1659711061",
+      "https://video.akamai.steamstatic.com/store_trailers/1151640/303036/7c204925966b8b7cafd76c9984dd132393bf2248/1750629471/hls_264_master.m3u8?t=1596814664",
+      "https://video.akamai.steamstatic.com/store_trailers/1151640/296504/bb8bfe8a772bfb542d89143bbe7d5b5e950a863b/1750629092/hls_264_master.m3u8?t=1605570730",
+      "https://video.akamai.steamstatic.com/store_trailers/1151640/270942/afaa7ede4cfb6baf7802a80e2e59e5829b5b330c/1750629078/hls_264_master.m3u8?t=1583852856"
+    ]
   },
   {
     "id": 1145350,
