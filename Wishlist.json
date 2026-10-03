@@ -969,7 +969,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/5fd273664df949ee503b434f219285d0da317c1a/page_bg_raw.jpg?t=1787153526",
     "dateRequested": "08.04.2026",
     "year": "2026",
-    "price": "$7,91 / 520 ₽ / 300 ₴ / 3 840 ₸",
+    "price": "$7.91 / 520 ₽ / 300 ₴ / 3,840 ₸",
     "isFree": "false",
     "studios": "MyACG Studio (Изд: MyACG Studio, NPC Entertainment)",
     "genres": "Экшены, Приключенческие игры, Инди, Ролевые игры, Ранний доступ",
@@ -980,7 +980,24 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/150bdf433b7918ac8adc3359a450da9520d12516/ss_150bdf433b7918ac8adc3359a450da9520d12516.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/e63929fdbc88fe7a004cf9bef83d7fe3a29d2028/ss_e63929fdbc88fe7a004cf9bef83d7fe3a29d2028.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb/ss_8f81adfc5f08f55cdf1f1605d1e846dcfea77ecb.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/a7d11bb346215ec5373947b467da70f484e0f93c/ss_a7d11bb346215ec5373947b467da70f484e0f93c.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/0c732963384544cdccc5e47a7ec2522ff6e7afb7/ss_0c732963384544cdccc5e47a7ec2522ff6e7afb7.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/43ba2e72b1f0be2c618506287c2a900d96c6436a/ss_43ba2e72b1f0be2c618506287c2a900d96c6436a.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/b1355c23dc5be731f74873d2d549d78d6b055608/ss_b1355c23dc5be731f74873d2d549d78d6b055608.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/c6ea25ecab30b4c807f674d052c720be1244bc78/ss_c6ea25ecab30b4c807f674d052c720be1244bc78.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/12dd9c23fe7bbb24c08a971e001fbfdd16a9057a/ss_12dd9c23fe7bbb24c08a971e001fbfdd16a9057a.1920x1080.jpg?t=1787153526",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214610/7385666f62f948e26a14d36f50f1f796fec0193b/ss_7385666f62f948e26a14d36f50f1f796fec0193b.1920x1080.jpg?t=1787153526"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3214610/1656678861/d5063d5edaabd69fb27426b29a9838d0b9a37ab4/1772786259/hls_264_master.m3u8?t=1772793452",
+      "https://video.akamai.steamstatic.com/store_trailers/3214610/369013398/8b47e1803ccd6307e9dd6c45f00b7856206ac136/1774892699/hls_264_master.m3u8?t=1774895648",
+      "https://video.akamai.steamstatic.com/store_trailers/3214610/266873873/d83a8916b2194ece156d7f969f7f2c6c8394b5a2/1766909786/hls_264_master.m3u8?t=1766911013"
+    ]
   },
   {
     "id": 3293010,
