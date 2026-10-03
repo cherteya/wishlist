@@ -170,7 +170,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/b61c0632ee215e3e38be9c06b75872341c7b6be3/page_bg_raw.jpg?t=1787839211",
     "dateRequested": "11.06.2026",
     "year": "2026",
-    "price": "$14,84 / 1 305 ₽ / 648 ₴ / 7 191 ₸",
+    "price": "$13.19 / 1,160 ₽ / 576 ₴ / 6,392 ₸",
     "isFree": "false",
     "studios": "Tiny Roar (Изд: Megabit Publishing, rokaplay)",
     "genres": "Приключенческие игры, Симуляторы",
@@ -181,7 +181,21 @@
     "metacriticUrl": "",
     "website": "https://megabit-publishing.com/games/lous-lagoon",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/8973213197cacd98b0f16174273f173a25729115/ss_8973213197cacd98b0f16174273f173a25729115.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/c77824aa251d6e1cd3434e2fcfaed73942caccb7/ss_c77824aa251d6e1cd3434e2fcfaed73942caccb7.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/c22df607a2e0ac4a71f96c2cf77923f9e33ee276/ss_c22df607a2e0ac4a71f96c2cf77923f9e33ee276.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/3a76c729859867c0e25052fbd96cb08d478da50a/ss_3a76c729859867c0e25052fbd96cb08d478da50a.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/3d1b29d77c29781de1d85b4aaeae015b9a14610a/ss_3d1b29d77c29781de1d85b4aaeae015b9a14610a.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/db49913fa9f7956d67864e824f44865519995c7c/ss_db49913fa9f7956d67864e824f44865519995c7c.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/be7e2a3340ada09b2e64d697dd60cc46435b98d5/ss_be7e2a3340ada09b2e64d697dd60cc46435b98d5.1920x1080.jpg?t=1787839211",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2100020/abb9b08b48ed587a28a7eed6db7e870166771f2c/ss_abb9b08b48ed587a28a7eed6db7e870166771f2c.1920x1080.jpg?t=1787839211"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2100020/257271343/ba95e35771fa869933dd2712bcb35963bf239507/1787220248/hls_264_master.m3u8?t=1787813976",
+      "https://video.akamai.steamstatic.com/store_trailers/2100020/838366609/1cba3695540026f9535706e850cc4e636ebd8c34/1771582785/hls_264_master.m3u8?t=1773064164"
+    ]
   },
   {
     "id": 2172010,
