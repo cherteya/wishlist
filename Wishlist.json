@@ -1353,11 +1353,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4369130",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4369130/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/c2f0ff4f9e8af8174834aab21d066c152658cd52/page_bg_raw.jpg?t=1786432849",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/8bceabf2e3a7a845696baf18c09b377684d116ae/header.jpg?t=1790868095",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/c2f0ff4f9e8af8174834aab21d066c152658cd52/page_bg_raw.jpg?t=1790868095",
     "dateRequested": "08.08.2026",
     "year": "2026",
-    "price": "$7,49 / 590 ₽ / 295 ₴ / 3 960 ₸",
+    "price": "$5.69 / 448 ₽ / 224 ₴ / 3,009 ₸",
     "isFree": "false",
     "studios": "NullRef Entertainment (Изд: rokaplay select)",
     "genres": "Приключенческие игры",
@@ -1369,7 +1369,25 @@
     "website": "https://www.rokaplay.com/",
     "dlcCount": "0",
     "altPoster": "https://images.igdb.com/igdb/image/upload/t_1080p/cobyi3.jpg",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/667fb8071e628eabc4d01830b0bafe638e5bce67/ss_667fb8071e628eabc4d01830b0bafe638e5bce67.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/ef4be71259c9ff7542440163fd1dde8683c128b4/ss_ef4be71259c9ff7542440163fd1dde8683c128b4.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/93f326a95d77302fbe3f5c68154614bcbb46eb94/ss_93f326a95d77302fbe3f5c68154614bcbb46eb94.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/22c6e206feb460dea332367e6035563aaf1ca2ce/ss_22c6e206feb460dea332367e6035563aaf1ca2ce.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/d1b941961a2bf3f9401ac2a177a96a995902e7ad/ss_d1b941961a2bf3f9401ac2a177a96a995902e7ad.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/104ad09503e944cf5cd005a0e693571002426780/ss_104ad09503e944cf5cd005a0e693571002426780.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/f06f0bc36a4a314644dc5eadb1e06c4d46b050a0/ss_f06f0bc36a4a314644dc5eadb1e06c4d46b050a0.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/4d9ed6f876f217a8d666d0ca63bf8d9267c2cfb8/ss_4d9ed6f876f217a8d666d0ca63bf8d9267c2cfb8.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/9db58238ba99a4d9a34958ffccfcdc5b39ab7ac9/ss_9db58238ba99a4d9a34958ffccfcdc5b39ab7ac9.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/24ddd33fb76d9343945e73964f5c097bb828712a/ss_24ddd33fb76d9343945e73964f5c097bb828712a.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/d7f759bd871570aaa64c27d24fa928bfff98c05a/ss_d7f759bd871570aaa64c27d24fa928bfff98c05a.1920x1080.jpg?t=1790868095",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4369130/545b437ddeee65338222da30e6c116d06278c0d5/ss_545b437ddeee65338222da30e6c116d06278c0d5.1920x1080.jpg?t=1790868095"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4369130/1969735619/9832fa4f8eea77795600091bfe9e408b4703587b/1786096186/hls_264_master.m3u8?t=1786102299",
+      "https://video.akamai.steamstatic.com/store_trailers/4369130/330113482/63e1ceeef0b54885ecf1f0b64a125cab3a1d7c1b/1770898104/hls_264_master.m3u8?t=1774431975"
+    ]
   },
   {
     "id": 4450620,
