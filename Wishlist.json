@@ -2162,11 +2162,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4380490",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4380490/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/c432d10b7c5333076121df20ffdfba981b5aa0e5/page_bg_raw.jpg?t=1787328174",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9c206d8a7c8a6133230628b6326f4f08a683b40e/header.jpg?t=1790596384",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/c432d10b7c5333076121df20ffdfba981b5aa0e5/page_bg_raw.jpg?t=1790596384",
     "dateRequested": "16.06.2026",
     "year": "2026",
-    "price": "$8,55 / 449 ₽ / 306 ₴ / 3 999 ₸",
+    "price": "$6.84 / 359 ₽ / 244 ₴ / 3,199 ₸",
     "isFree": "false",
     "studios": "Maracas Studio (Изд: Maracas Studio, Gamersky Games)",
     "genres": "Инди, Симуляторы",
@@ -2178,7 +2178,24 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOQkbClk9T43zD9qbzwlMBPYTzdnfyR6E3Qr0FMNbI5S6iOhL7nPbQzlM&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/ef21128321c5baaa093318f407969ac71382d6ab/ss_ef21128321c5baaa093318f407969ac71382d6ab.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/2f1e316e77a64c215c1afc4d6c8bae6ac08b95ea/ss_2f1e316e77a64c215c1afc4d6c8bae6ac08b95ea.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/c5bb58b4b51e0948491180320905ce00fe10560c/ss_c5bb58b4b51e0948491180320905ce00fe10560c.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/19ae617e4bb0282ee7c29e8c44d86c84adaac314/ss_19ae617e4bb0282ee7c29e8c44d86c84adaac314.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/082be8e059f5dafce51be6b0b9d9247c65a2101b/ss_082be8e059f5dafce51be6b0b9d9247c65a2101b.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/2146efa23ed8fcb9963ab7cd3cfe1e08cc30c424/ss_2146efa23ed8fcb9963ab7cd3cfe1e08cc30c424.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/9805d23c73bc3844908d8299322d3669a4f4eef5/ss_9805d23c73bc3844908d8299322d3669a4f4eef5.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/4942d507acc27df92a67e5feb4862e3e9e739e79/ss_4942d507acc27df92a67e5feb4862e3e9e739e79.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/2ef33f20ba2e1399bd1a31bf8352b6e89ff28b22/ss_2ef33f20ba2e1399bd1a31bf8352b6e89ff28b22.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/155677b6bbb610bb1b23cb4e112913656afc5f84/ss_155677b6bbb610bb1b23cb4e112913656afc5f84.1920x1080.jpg?t=1790596384",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1127cc6e5ffee51a150864d55b08aa5a339d2b46/ss_1127cc6e5ffee51a150864d55b08aa5a339d2b46.1920x1080.jpg?t=1790596384"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4380490/1250341123/97a954007c206919a2e5c0384b02d9bd094c0c80/1783604868/hls_264_master.m3u8?t=1783608404",
+      "https://video.akamai.steamstatic.com/store_trailers/4380490/682045795/dcd9572e0c6ec58620fc1d2e1eddd60bfc86d117/1781100271/hls_264_master.m3u8?t=1781114794"
+    ]
   },
   {
     "id": 3864450,
