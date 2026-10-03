@@ -1478,7 +1478,7 @@
     "status": "В вишлисте",
     "steamAppId": "1209970",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/1209970/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/15e53bb7ff5870d7cd97e5645a3379003d121d2d/page_bg_raw.jpg?t=1787141069",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/15e53bb7ff5870d7cd97e5645a3379003d121d2d/page_bg_raw.jpg?t=1790582657",
     "dateRequested": "11.01.2026",
     "year": "????",
     "price": "Неизвестно",
@@ -1492,7 +1492,23 @@
     "metacriticUrl": "",
     "website": "https://blinddescent.net/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/a99d61854fd54a88b26ab370e15b5947e86c056e/ss_a99d61854fd54a88b26ab370e15b5947e86c056e.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/3924f64e8bbeff29620e3bbee3964716a9c7d650/ss_3924f64e8bbeff29620e3bbee3964716a9c7d650.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/7e35b639191a4ee4aa535dfae8ca517c15fdb5e0/ss_7e35b639191a4ee4aa535dfae8ca517c15fdb5e0.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/de3da69914659d6700a211f632c18af55eb64488/ss_de3da69914659d6700a211f632c18af55eb64488.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/fa10956e0aa0df36a59eabdb001f2d1704361217/ss_fa10956e0aa0df36a59eabdb001f2d1704361217.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/c6f818b75acf402af2f2c1ef5961064fab2f084d/ss_c6f818b75acf402af2f2c1ef5961064fab2f084d.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/41a467f187f4e0de654215eafb44255f79c4f625/ss_41a467f187f4e0de654215eafb44255f79c4f625.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/578c17ef1e4e0e36566359ecf347320a7208510e/ss_578c17ef1e4e0e36566359ecf347320a7208510e.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/231e61bbdbb5fe720e96e37f4e9deacb55e8e3a7/ss_231e61bbdbb5fe720e96e37f4e9deacb55e8e3a7.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/8abee4ac6efda09a8742707668370963c662f885/ss_8abee4ac6efda09a8742707668370963c662f885.1920x1080.jpg?t=1790582657",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1209970/e52225219b93b623ba24c1ae9c04be5c0719d034/ss_e52225219b93b623ba24c1ae9c04be5c0719d034.1920x1080.jpg?t=1790582657"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1209970/52776041/4442e6d9e1a157aa8a193ea36aaca994d6cdeffe/1751204499/hls_264_master.m3u8?t=1749333793"
+    ]
   },
   {
     "id": 1244090,
