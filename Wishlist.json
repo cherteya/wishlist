@@ -2341,11 +2341,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3989960",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3989960/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/7cf40cfaff04f6a192df76a81d9f38463b73c50e/header.jpg?t=1781613814",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/a82bf4ea446565648b7e73d22b3a57dc0f69a2ae/page_bg_raw.jpg?t=1781613814",
     "dateRequested": "11.06.2026",
     "year": "2026",
-    "price": "~$3,50 / ~298 ₽ / 156 ₴ / 1 920 ₸",
+    "price": "Неизвестно",
     "isFree": "false",
     "studios": "Panic Stations (Изд: Panic Stations)",
     "genres": "Экшены, Приключенческие игры, Инди",
@@ -2357,7 +2357,24 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeWp8Z_q8IKvAh1rUzqQU4gdNZEIzuNIhBMIRfI0iymAbK3sgW4Ta2Ow&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/ff8550e8fac79e8cc8a5a240bda35b56690146f5/ss_ff8550e8fac79e8cc8a5a240bda35b56690146f5.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/6e333fabea01c94a2235fac2050313d9a8c7efc3/ss_6e333fabea01c94a2235fac2050313d9a8c7efc3.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/b4cd968214eeea8f4e877ebd13b404c1077896c6/ss_b4cd968214eeea8f4e877ebd13b404c1077896c6.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/cee0952dc4ef97226a6b165c0e9b5e370979b592/ss_cee0952dc4ef97226a6b165c0e9b5e370979b592.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/8705bde1ea9cac5c24512aea3a529fd7f793692b/ss_8705bde1ea9cac5c24512aea3a529fd7f793692b.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/aeac757e3e9e8e43dc7bac47588e447e0b4b88d3/ss_aeac757e3e9e8e43dc7bac47588e447e0b4b88d3.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/15f9b3901e6d0db606812ebf5005491eac870471/ss_15f9b3901e6d0db606812ebf5005491eac870471.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/4b65515a35c739de208c2370ddc40bd1d6fc98ce/ss_4b65515a35c739de208c2370ddc40bd1d6fc98ce.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/114e24ffa400156328dc34254c53e3a9629de5a3/ss_114e24ffa400156328dc34254c53e3a9629de5a3.1920x1080.jpg?t=1781613814",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3989960/bd673cfe8a4a29b9588033f3a8dc6dc0fd90528f/ss_bd673cfe8a4a29b9588033f3a8dc6dc0fd90528f.1920x1080.jpg?t=1781613814"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3989960/1679790466/514a257cf69f85424f40b18ad4b2549a9607d888/1781169632/hls_264_master.m3u8?t=1781191559",
+      "https://video.akamai.steamstatic.com/store_trailers/3989960/1714699631/debd418984630ac50b97cd28f569f7d9b4d3d349/1779977980/hls_264_master.m3u8?t=1781191567",
+      "https://video.akamai.steamstatic.com/store_trailers/3989960/16525070/66313b3bead75b67cf9651344eab9f53c51334be/1765364188/hls_264_master.m3u8?t=1765386300"
+    ]
   },
   {
     "id": 4121170,
