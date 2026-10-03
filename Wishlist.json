@@ -408,10 +408,10 @@
     "status": "В вишлисте",
     "steamAppId": "2597080",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/2597080/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/page_bg_raw.jpg?t=1787560675",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/page_bg_raw.jpg?t=1789747209",
     "dateRequested": "27.05.2026",
     "year": "2026",
-    "price": "$12,99 / 1 390 ₽ / 515 ₴ / 7 100 ₸",
+    "price": "$10.39 / 1,112 ₽ / 412 ₴ / 5,680 ₸",
     "isFree": "false",
     "studios": "Leap Studio (Изд: 4Divinity)",
     "genres": "Экшены, Приключенческие игры, Инди, Ролевые игры",
@@ -422,7 +422,29 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/16c6530443c22c23ff16d79bcf1cca2b97ede5fa/ss_16c6530443c22c23ff16d79bcf1cca2b97ede5fa.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/391361ef47d2d8b8d50c1cdd24d89019d24822da/ss_391361ef47d2d8b8d50c1cdd24d89019d24822da.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/1f127d730f3a5603ba7e26f2cc8b5beb1553b2f5/ss_1f127d730f3a5603ba7e26f2cc8b5beb1553b2f5.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/239abdf50fa965b77d4dad6bff6fb1739bd4c28a/ss_239abdf50fa965b77d4dad6bff6fb1739bd4c28a.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/994fb1fd646505f650980aacdd3492aa3bab239c/ss_994fb1fd646505f650980aacdd3492aa3bab239c.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/f5cd072bae14b46965534a3eef1c86f6c692de57/ss_f5cd072bae14b46965534a3eef1c86f6c692de57.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/ss_3db333e70e9dfbf3d7c65b14ab727f910f1119b9.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/5bd4eb269fca701ab8672b437df901b1bb0567fb/ss_5bd4eb269fca701ab8672b437df901b1bb0567fb.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/ss_f669d7a9886544f6cd64e9f86e3660253cbb0c4d.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/8d09bfbed03fc5f5509bf324e4eb04cdeb447ca7/ss_8d09bfbed03fc5f5509bf324e4eb04cdeb447ca7.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/ss_f4b1272b0fbf0b785958464c35dd95e45a8c4f31.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/daf2236b176017dc48bcdcc616497dd793c1a822/ss_daf2236b176017dc48bcdcc616497dd793c1a822.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/ss_d5b69d1ecb9f5372f788198aa40d78ccba966636.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/b8aab23cf6c67a17abe613686ac82ca756af0bcd/ss_b8aab23cf6c67a17abe613686ac82ca756af0bcd.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/d69682bb6b2a6344a58fcdddbe93ee4a7aba01de/ss_d69682bb6b2a6344a58fcdddbe93ee4a7aba01de.1920x1080.jpg?t=1789747209",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/2cdf844742bbf255cbbfa007d75dd90285c70955/ss_2cdf844742bbf255cbbfa007d75dd90285c70955.1920x1080.jpg?t=1789747209"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2597080/348257490/cc89ceb610cfb39e8bfe130d6062da03eaff359b/1789744795/hls_264_master.m3u8?t=1789747205",
+      "https://video.akamai.steamstatic.com/store_trailers/2597080/382755893/3b036b24e14a0352e57854110528dd97b9477b85/1779723515/hls_264_master.m3u8?t=1779813941"
+    ]
   },
   {
     "id": 2679100,
