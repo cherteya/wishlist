@@ -2188,9 +2188,9 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/page_bg_raw.jpg?t=1778135029",
     "dateRequested": "21.08.2026",
     "year": "2022",
-    "price": "$3.29 / 133 ₽ / 99 ₴ / 1,050 ₸",
+    "price": "$2.30 / 93 ₽ / 69 ₴ / 735 ₸",
     "isFree": "false",
-    "datePriceUpdated": "01.09.2026",
+    "datePriceUpdated": "03.10.2026",
     "studios": "Bad Vices Games (Изд: Bad Vices Games)",
     "genres": "Казуальные игры, Инди, Симуляторы",
     "platforms": "Windows",
@@ -2199,7 +2199,22 @@
     "metacriticScore": "Нет оценок",
     "metacriticUrl": "",
     "website": "https://badvicesgames.wixsite.com/my-site",
-    "dlcCount": "0"
+    "dlcCount": "0",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_511b016086cb51317223b1de68c841926f35db0f.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_a914f54a596b7f10e13c4e43d6fbbd4b3fa9fb6b.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_64b9077b112098b4affbfe33a5ecf632192fd372.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_de2c863c38ed6af933d097e04c3be5f3bff0f38b.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_26cbf4c6af2fd47d9d48e65ddcc70602c0a2b838.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_2093818c0be5af913f4d87f05519c96eda62d0d2.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_f485c93a2428da3315603a6a3a9685728d05222d.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_3215dae4bca91129656930382155380ad37e1184.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_731211b0b405e71ba30e2d7cf5555b45269eaa7b.1920x1080.jpg?t=1778135029",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1615290/ss_7459d193d4d6e805c0cb56a5b855970a63fbfe3d.1920x1080.jpg?t=1778135029"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1615290/434718/1b6b3c3de7d2ceb5c9e3948d91ba414df188f686/1751010137/hls_264_master.m3u8?t=1683786186"
+    ]
   },
   {
     "id": 4934370,
