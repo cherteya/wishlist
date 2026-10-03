@@ -2380,7 +2380,7 @@
     "year": "2026",
     "price": "$5.24 / 413 ₽ / 206 ₴ / 2,772 ₸",
     "isFree": "false",
-    "datePriceUpdated": "01.09.2026",
+    "datePriceUpdated": "03.10.2026",
     "studios": "MediaCity Games (Изд: MediaCity Games)",
     "genres": "Приключенческие игры",
     "platforms": "Windows",
@@ -2389,7 +2389,20 @@
     "metacriticScore": "Нет оценок",
     "metacriticUrl": "",
     "website": "https://www.thecrimsonmanor.com",
-    "dlcCount": "0"
+    "dlcCount": "0",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_0873c17bff8b254d84663e9399164b98e63f9efc.1920x1080.jpg?t=1782171958",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_37d02896733a746c43adb0edb551b8d14fdf93e5.1920x1080.jpg?t=1782171958",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_7573d7dc605499531a506b8d641385a7b343755a.1920x1080.jpg?t=1782171958",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_ee37cb8361f95be3c5f2ad67fdfd981100002b82.1920x1080.jpg?t=1782171958",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_036acd9612ac95adffe91bc536466f9313cde34b.1920x1080.jpg?t=1782171958",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345430/ss_510946451fa423a5c41bbecfc4b7d55b915e1652.1920x1080.jpg?t=1782171958"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2345430/1581938073/1404ba705ed31ec6c868aa965331dad68a9812fa/1769902078/hls_264_master.m3u8?t=1769904148",
+      "https://video.akamai.steamstatic.com/store_trailers/2345430/968095405/12b5d036025efac850ded13e30552046ba8939d5/1767492661/hls_264_master.m3u8?t=1767494156",
+      "https://video.akamai.steamstatic.com/store_trailers/2345430/570109/674720f0d51643769fe721308adfb3f945827ef6/1750909412/hls_264_master.m3u8?t=1684969293"
+    ]
   },
   {
     "id": 3196440,
