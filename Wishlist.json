@@ -3007,11 +3007,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4158870",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4158870/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/bb30499b46f71b0793bdabcf644eb06b7c921174/header.jpg?t=1780156232",
     "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4158870?t=1780156232",
     "dateRequested": "05.03.2026",
     "year": "2026",
-    "price": "$12,49 / 880 ₽ / 515 ₴ / 6 400 ₸",
+    "price": "$9.99 / 704 ₽ / 412 ₴ / 5,120 ₸",
     "isFree": "false",
     "studios": "G-MODE, GAME START LLC (Изд: G-MODE)",
     "genres": "Симуляторы",
@@ -3023,7 +3023,17 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXQUPc8ZHGcEn5SeIQR_WXJQl6u70c4feD4NdBGfu4Q&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/0e08171edeb76ab412b12986698af3f2a4fe35c7/ss_0e08171edeb76ab412b12986698af3f2a4fe35c7.1920x1080.jpg?t=1780156232",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/cc06b6dc993891bd35a6a4db9dbce778a293ee1b/ss_cc06b6dc993891bd35a6a4db9dbce778a293ee1b.1920x1080.jpg?t=1780156232",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/66176d4fe4a0e0d095c910a54907c456c1856542/ss_66176d4fe4a0e0d095c910a54907c456c1856542.1920x1080.jpg?t=1780156232",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/b635ba14148fcabf4c463b5ec5f04437f5208f76/ss_b635ba14148fcabf4c463b5ec5f04437f5208f76.1920x1080.jpg?t=1780156232",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4158870/178092a4bf73ea782b8fbaecf1a495cb99c571d7/ss_178092a4bf73ea782b8fbaecf1a495cb99c571d7.1920x1080.jpg?t=1780156232"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4158870/2145053957/cf5f26a3cd97935195b6bd500bbc092ed3e2d705/1763636659/hls_264_master.m3u8?t=1763693716"
+    ]
   },
   {
     "id": 3582250,
