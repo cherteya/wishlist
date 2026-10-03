@@ -3387,7 +3387,7 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3864580",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3864580/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/1edd9e7a8f48a168cc270f5c996e983fd53f4eb2/header.jpg?t=1780325656",
     "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/3864580?t=1780325656",
     "dateRequested": "26.12.2025",
     "year": "????",
@@ -3403,7 +3403,17 @@
     "website": "https://vac.team/",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWRM-1hy72YCIqQRdem72TQyoyEyBxjk8B2D3FZ7eDIV8qGKJE0ulfmRK8&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/7db08f7af0b3ac281249a7f2de6440bbd9977605/ss_7db08f7af0b3ac281249a7f2de6440bbd9977605.1920x1080.jpg?t=1780325656",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/1ad535ae71b7e27dbbc2d28e519e25f1adb2126f/ss_1ad535ae71b7e27dbbc2d28e519e25f1adb2126f.1920x1080.jpg?t=1780325656",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/7a807ef265644e1cfa2c7e243a3c6baa78ff27dd/ss_7a807ef265644e1cfa2c7e243a3c6baa78ff27dd.1920x1080.jpg?t=1780325656",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/f91785a8d513f9451304cff3f6a25cab3e306c53/ss_f91785a8d513f9451304cff3f6a25cab3e306c53.1920x1080.jpg?t=1780325656",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864580/0d5f99c7f5b0727a9018d748855a0926565d6af2/ss_0d5f99c7f5b0727a9018d748855a0926565d6af2.1920x1080.jpg?t=1780325656"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3864580/1873306826/0b83224e06e66d180d51aa5f368163d2e1937d4d/1758483141/hls_264_master.m3u8?t=1758485805"
+    ]
   },
   {
     "id": 4203890,
