@@ -3118,11 +3118,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4074010",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4074010/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/f948644c9f688a116922b2caea200a03bc1c804a/header.jpg?t=1786016977",
     "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4074010?t=1786016977",
     "dateRequested": "26.02.2026",
     "year": "2026",
-    "price": "$3,99 / 299 ₽ / 149 ₴ / 1 900 ₸",
+    "price": "$2.27 / 170 ₽ / 84 ₴ / 1,083 ₸",
     "isFree": "false",
     "studios": "Alice Games (Изд: Alice Games)",
     "genres": "Экшены, Приключенческие игры, Инди, Многопользовательские игры",
@@ -3134,7 +3134,20 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://images.igdb.com/igdb/image/upload/t_cover_big/cob8l3.webp",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/109ad0fb82c2cbaf702f4b5549ad4eefce81771f/ss_109ad0fb82c2cbaf702f4b5549ad4eefce81771f.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/b6bc46a68787c923611a4c9c4bc0b8e3936cf565/ss_b6bc46a68787c923611a4c9c4bc0b8e3936cf565.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/69769550d364250debedb402cbedb0a02b3bf6ab/ss_69769550d364250debedb402cbedb0a02b3bf6ab.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/a663f894682cc47169ad1e20184b485ad4e6b429/ss_a663f894682cc47169ad1e20184b485ad4e6b429.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/4eb18335abda1c38717f456549e83588166dda5e/ss_4eb18335abda1c38717f456549e83588166dda5e.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/91c45e194519a8885296b0902568b6a50ef650a6/ss_91c45e194519a8885296b0902568b6a50ef650a6.1920x1080.jpg?t=1786016977",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4074010/7a0c6b9089ddd91f88d4983c79716fc70e339329/ss_7a0c6b9089ddd91f88d4983c79716fc70e339329.1920x1080.jpg?t=1786016977"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4074010/36598694/e88cdb31fa856da1f9225ed9bb72b2d4a904832f/1782286344/hls_264_master.m3u8?t=1782286861",
+      "https://video.akamai.steamstatic.com/store_trailers/4074010/265428537/b320ef4b67c9e878545890f8319800068b37c1a9/1765961670/hls_264_master.m3u8?t=1767783979"
+    ]
   },
   {
     "id": 4348760,
