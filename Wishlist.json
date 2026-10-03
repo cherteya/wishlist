@@ -1758,11 +1758,11 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3558600",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3558600/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/fb3cae65a60d6fa8511f769317e0e2722f50b6e7/page_bg_raw.jpg?t=1787257150",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/57deed9f6c4c6a94fba79c492dda70bf2311c435/header.jpg?t=1790252315",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/fb3cae65a60d6fa8511f769317e0e2722f50b6e7/page_bg_raw.jpg?t=1790252315",
     "dateRequested": "19.07.2026",
     "year": "2026",
-    "price": "$6,19 / 349 ₽ / 199 ₴ / 2 700 ₸",
+    "price": "$4.95 / 279 ₽ / 159 ₴ / 2,160 ₸",
     "isFree": "false",
     "studios": "Fireline Games (Изд: Fireline Games)",
     "genres": "Казуальные игры, Инди, Симуляторы",
@@ -1774,7 +1774,25 @@
     "website": "https://leafycorner.carrd.co/",
     "dlcCount": "0",
     "altPoster": "https://images.igdb.com/igdb/image/upload/t_cover_big/coccpl.webp",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/ef581491aea9b71a111546579583a38a1d0b43de/ss_ef581491aea9b71a111546579583a38a1d0b43de.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e18227972af5facdbeba1de05afa21e4aa2566e6/ss_e18227972af5facdbeba1de05afa21e4aa2566e6.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/63c89e5050c1771176c1a6f64d5bcccc6ea7aea1/ss_63c89e5050c1771176c1a6f64d5bcccc6ea7aea1.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/eaaafe65af27a768f3380ddc00a7b29498b77f77/ss_eaaafe65af27a768f3380ddc00a7b29498b77f77.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/e27246170313a25c7d6a64a49e88dbd33ce10acc/ss_e27246170313a25c7d6a64a49e88dbd33ce10acc.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/46153a2a0065af736f8d0cb6c9a253bca6640500/ss_46153a2a0065af736f8d0cb6c9a253bca6640500.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/c9d8cd9d9d00d0ab3e15b047803a33b3cef75583/ss_c9d8cd9d9d00d0ab3e15b047803a33b3cef75583.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/706c83c1910c37db1e6e49cbb9cc58eb326acb26/ss_706c83c1910c37db1e6e49cbb9cc58eb326acb26.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/f82694ccdd7e7b11a71b36108a18a77ecee3fcb3/ss_f82694ccdd7e7b11a71b36108a18a77ecee3fcb3.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/db1f21de68e0e5b9dc92c5548c73947373dbc624/ss_db1f21de68e0e5b9dc92c5548c73947373dbc624.1920x1080.jpg?t=1790252315",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558600/f4480ed79a831c05c1c8552c7988df24186f5d47/ss_f4480ed79a831c05c1c8552c7988df24186f5d47.1920x1080.jpg?t=1790252315"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3558600/15192090/e04d80ed4979b8dd16735dc1d9dc314ef5f843f6/1785428009/hls_264_master.m3u8?t=1785431507",
+      "https://video.akamai.steamstatic.com/store_trailers/3558600/1848358134/4b02c8efefcb1e609891be6e53a2118a6a291a12/1776441786/hls_264_master.m3u8?t=1776443621",
+      "https://video.akamai.steamstatic.com/store_trailers/3558600/780142412/49f87966572e3c3b881de161bd551047c99269a7/1750599103/hls_264_master.m3u8?t=1756199853"
+    ]
   },
   {
     "id": 4317790,
