@@ -443,10 +443,10 @@
     "status": "В вишлисте",
     "steamAppId": "2702260",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/2702260/library_600x900_2x.jpg",
-    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702260?t=1784809607",
+    "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/2702260?t=1790071572",
     "dateRequested": "07.08.2026",
     "year": "2026",
-    "price": "$8,55 / 550 ₽ / 335 ₴ / 4 510 ₸",
+    "price": "$6.84 / 440 ₽ / 268 ₴ / 3,608 ₸",
     "isFree": "false",
     "studios": "Pipapo Games (Изд: Pipapo Games, Rekoup)",
     "genres": "Приключенческие игры, Казуальные игры, Инди, Симуляторы",
@@ -457,7 +457,22 @@
     "metacriticUrl": "",
     "website": "https://pipapo.games/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/b0abf23bea91b6a30b66ff10a7a3506d6beda87e/ss_b0abf23bea91b6a30b66ff10a7a3506d6beda87e.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/9365cf7c2c33857773168cdec3f3fade6392e6f3/ss_9365cf7c2c33857773168cdec3f3fade6392e6f3.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/ss_862519144fa65b66afad28ca10c40601d74e9614.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/49cfa8ff2cdcdf3de34f2a2ac68f9beb2b57a005/ss_49cfa8ff2cdcdf3de34f2a2ac68f9beb2b57a005.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/b8696442bdf9ff3054eb63bad8164b936714ec86/ss_b8696442bdf9ff3054eb63bad8164b936714ec86.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/4b3be9da5ab52f594f4e2a20557814655befc48d/ss_4b3be9da5ab52f594f4e2a20557814655befc48d.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/d8c1c28daec9283400a51dcba8353309e5e60152/ss_d8c1c28daec9283400a51dcba8353309e5e60152.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/2dc867640619fc3523d60eb5657119a48b85c0ce/ss_2dc867640619fc3523d60eb5657119a48b85c0ce.1920x1080.jpg?t=1790071572",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2702260/0d0c5c0afe5cca794bd3584d321fd3d07b635067/ss_0d0c5c0afe5cca794bd3584d321fd3d07b635067.1920x1080.jpg?t=1790071572"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2702260/1433457135/23317b375e2f1d29c7070dcd7915f003fc4c7dd7/1778590243/hls_264_master.m3u8?t=1779981337",
+      "https://video.akamai.steamstatic.com/store_trailers/2702260/2034146908/19624d07220a77aa3dd6bbb8d6c89dbcdd4fe4e7/1750892347/hls_264_master.m3u8?t=1755249804"
+    ]
   },
   {
     "id": 2712590,
