@@ -3711,7 +3711,7 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3909600",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3909600/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/9f1771d9b123bc454ceecce289bb68ed02f3a589/header.jpg?t=1786728121",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/b51364d7b4ea0c17b3b7e7fa5f4b6aa8851f952f/page_bg_raw.jpg?t=1786728121",
     "dateRequested": "19.08.2025",
     "year": "2027",
@@ -3727,7 +3727,18 @@
     "website": "",
     "dlcCount": "0",
     "altPoster": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3909600/9f1771d9b123bc454ceecce289bb68ed02f3a589/header.jpg?t=1779284459",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/7061fc9ed06c305f41811632cedb204a5125c567/ss_7061fc9ed06c305f41811632cedb204a5125c567.1920x1080.jpg?t=1786728121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/545c811103c5b824e54e84387f30ff56a685b8ce/ss_545c811103c5b824e54e84387f30ff56a685b8ce.1920x1080.jpg?t=1786728121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/d2bad15a5c2338a49e88469a6ea8c8143cbd1a1b/ss_d2bad15a5c2338a49e88469a6ea8c8143cbd1a1b.1920x1080.jpg?t=1786728121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/c7aa3a7f28c04468dcb4b80ffc30160381383a7d/ss_c7aa3a7f28c04468dcb4b80ffc30160381383a7d.1920x1080.jpg?t=1786728121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/ab51569ae4deeb493d639f3d68c860fc52e310a1/ss_ab51569ae4deeb493d639f3d68c860fc52e310a1.1920x1080.jpg?t=1786728121",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3909600/3528b5b17a132a2c93817c5a5b914707c2124dc7/ss_3528b5b17a132a2c93817c5a5b914707c2124dc7.1920x1080.jpg?t=1786728121"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3909600/686728658/c299a81034dd83aa9f17c516b410da8e0c5f3691/1755181565/hls_264_master.m3u8?t=1755183098"
+    ]
   },
   {
     "id": 1615290,
