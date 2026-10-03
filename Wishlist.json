@@ -2392,13 +2392,13 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4534960",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4534960/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7ddef53346afe3e3d4d479dbed740cdb38cfe09a/header.jpg?t=1787132605",
     "backdrop": "https://store.akamai.steamstatic.com/images/storepagebackground/app/4534960?t=1787132605",
     "dateRequested": "02.09.2026",
     "year": "2026",
     "price": "Неизвестно",
     "isFree": "false",
-    "datePriceUpdated": "03.09.2026",
+    "datePriceUpdated": "03.10.2026",
     "studios": "FLEXUS (Изд: FLEXUS)",
     "genres": "Экшены, Приключенческие игры, Инди",
     "platforms": "Windows",
@@ -2407,7 +2407,22 @@
     "metacriticScore": "Нет оценок",
     "metacriticUrl": "",
     "website": "https://dearpassengers.game",
-    "dlcCount": "0"
+    "dlcCount": "0",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/b28210ec5549d2cda898099e6d4a5c29153b2f35/ss_b28210ec5549d2cda898099e6d4a5c29153b2f35.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/8587fe02b49b18e907bc271403aca145aac23b2d/ss_8587fe02b49b18e907bc271403aca145aac23b2d.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/de1051493ef5690ab1a17d7c2fc35a74a42a4ea1/ss_de1051493ef5690ab1a17d7c2fc35a74a42a4ea1.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/12ea170121330ac9040a00257436552a9b2368a1/ss_12ea170121330ac9040a00257436552a9b2368a1.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7d572221193bf6d9a3294f7a59af4d093afb6ba1/ss_7d572221193bf6d9a3294f7a59af4d093afb6ba1.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3/ss_59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/442dcbff83ae722b28b063e2b453a96d75f1d465/ss_442dcbff83ae722b28b063e2b453a96d75f1d465.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/9fdf57c8e8d2946d9c82ebece8ce7c311f587d41/ss_9fdf57c8e8d2946d9c82ebece8ce7c311f587d41.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/a30af7fc82215257ef5f0934d3be1fb5d7f4d5fb/ss_a30af7fc82215257ef5f0934d3be1fb5d7f4d5fb.1920x1080.jpg?t=1787132605",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/0f97770ed578a9ce1a20309e58a3bd1cc3cce099/ss_0f97770ed578a9ce1a20309e58a3bd1cc3cce099.1920x1080.jpg?t=1787132605"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4534960/176858668/0f21c3c6ad3b0997ac4ff3b5d339850810e8916a/1783965342/hls_264_master.m3u8?t=1783975744"
+    ]
   },
   {
     "id": 1299460,
