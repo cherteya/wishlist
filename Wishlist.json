@@ -142,7 +142,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/page_bg_raw.jpg?t=1772142684",
     "dateRequested": "19.03.2024",
     "year": "2022",
-    "price": "$18,49 / 1 709 ₽ / 479 ₴ / 15 199 ₸",
+    "price": "$9.24 / 854 ₽ / 239 ₴ / 7,599 ₸",
     "isFree": "false",
     "studios": "Ember Lab (Изд: Ember Lab)",
     "genres": "Экшены, Приключенческие игры, Инди",
@@ -153,7 +153,32 @@
     "metacriticUrl": "https://www.metacritic.com/game/pc/kena-bridge-of-spirits?ftag=MCD-06-10aaa1f",
     "website": "https://www.emberlab.com/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_52e16ae68eadf382538cdaaa876f58f0e2e9c757.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_e5eededd88d1d923114b796babb21d0eb209a475.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_b732caa0f33758a267a12cf2018f5af8eaeb5a45.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_6a00ab7cbc120b7296de971903cc234632513717.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_356dc11e06da5d3c4b0052a259a738632de7df4f.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_2fff15db4324815f9365748c91dd618c6cf71b69.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_5ab02f025a146aa99a748350fb599e95ee17f613.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_4d7ba9f26600f9beaa31427c84749b668f07c440.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_5663b1c7f62516117faac560f9ba9bf8d87541bf.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_fcb83f0ca864a014057f6d17896845ce47c3d545.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_d1b63beeee8b5d36f14afbefb7a746087b88534e.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_189462af79b2ec7c03f6e02d0973fe69a27be6e3.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_a7521a54970aee953dad96d1acedbaa3a927e4d5.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_4d0f992dad8a2521870428f656cfb3c8afed9bf9.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_acdc7b071849012ece36e949f2961c7fd5bfa5da.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_71dc09e330f9918a1893d39021fdb56fa23beb14.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_7feb4670b784a76432c818a87f58590de9c5b8ac.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_ded6a9c622877392edb15be991dd0160abd33135.1920x1080.jpg?t=1772142684",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1954200/ss_0fa45556419113465967b5fb53ce36cd96647c71.1920x1080.jpg?t=1772142684"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1954200/488266/f058b635fdde205f5c62eb39d27ec77cbe22b011/1750742566/hls_264_master.m3u8?t=1660913901",
+      "https://video.akamai.steamstatic.com/store_trailers/1954200/489282/5134c83be3bbd3989a6683a8279f110e568ce975/1750742568/hls_264_master.m3u8?t=1661013806"
+    ]
   },
   {
     "id": 2055770,
