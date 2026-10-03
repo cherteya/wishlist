@@ -3669,7 +3669,7 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "3757140",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/3757140/library_600x900_2x.jpg",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/15f596dd123896e7a39760cebee7660785e9b1dd/header.jpg?t=1785841855",
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/b77cfcfbed4ac8f504b9ec85a1d8db9a344aa4ec/page_bg_raw.jpg?t=1785841855",
     "dateRequested": "22.08.2025",
     "year": "????",
@@ -3685,7 +3685,25 @@
     "website": "https://www.cyancook.com/",
     "dlcCount": "0",
     "altPoster": "https://gameinformer.com/sites/default/files/styles/product_box_art/public/2026/02/10/0c91100b/ofpeaksandtidesart.jpg.webp",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/0f16b4aa777e60487587637028a909f0e152ae8d/ss_0f16b4aa777e60487587637028a909f0e152ae8d.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/54d7f5bc8aee8c58fb54a797db798d41fdbc2e53/ss_54d7f5bc8aee8c58fb54a797db798d41fdbc2e53.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/942dc4b841f2215985f1355385403bb7c2f63be8/ss_942dc4b841f2215985f1355385403bb7c2f63be8.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/7b36cac96af0cec9551bdc630540ff4e9b9865a1/ss_7b36cac96af0cec9551bdc630540ff4e9b9865a1.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/0a342730b18585d1a50c152f04ac3f803c3462ae/ss_0a342730b18585d1a50c152f04ac3f803c3462ae.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/7d724d9755d3ad985e6ca71696769b55cf9ef965/ss_7d724d9755d3ad985e6ca71696769b55cf9ef965.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/9634950c26bbaae4d8936923b3d51a5b7dde2701/ss_9634950c26bbaae4d8936923b3d51a5b7dde2701.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/879bc47ed5a3bd00623d1adbed45ef571b578b46/ss_879bc47ed5a3bd00623d1adbed45ef571b578b46.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/83469a831cc8cf983ee68823b5d13c0a6af5116c/ss_83469a831cc8cf983ee68823b5d13c0a6af5116c.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/fab1eedf95d093ffed763e4c3507a59f7be9132f/ss_fab1eedf95d093ffed763e4c3507a59f7be9132f.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/8498b197102060a202c5bd2c6d82ac328a3ce3f0/ss_8498b197102060a202c5bd2c6d82ac328a3ce3f0.1920x1080.jpg?t=1785841855",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3757140/e5f6f8346fc5fad2f16991967109f60f71d2887c/ss_e5f6f8346fc5fad2f16991967109f60f71d2887c.1920x1080.jpg?t=1785841855"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3757140/352680035/bf305f8351778b83a9c6387c5a52b65e2e64e13f/1755001039/hls_264_master.m3u8?t=1755144028",
+      "https://video.akamai.steamstatic.com/store_trailers/3757140/1225489747/ba2d209a76aead53430552f234b6da30916c7641/1754905489/hls_264_master.m3u8?t=1755144034"
+    ]
   },
   {
     "id": 3909600,
