@@ -2497,9 +2497,9 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/page_bg_raw.jpg?t=1786044059",
     "dateRequested": "03.09.2026",
     "year": "2025",
-    "price": "$7.49 / 659 ₽ / 299 ₴ / 4,020 ₸",
+    "price": "$6.24 / 549 ₽ / 249 ₴ / 3,350 ₸",
     "isFree": "false",
-    "datePriceUpdated": "03.09.2026",
+    "datePriceUpdated": "03.10.2026",
     "studios": "Ivy Road (Изд: Annapurna Interactive)",
     "genres": "Приключенческие игры, Инди, Симуляторы",
     "platforms": "Windows",
@@ -2508,7 +2508,20 @@
     "metacriticScore": "80",
     "metacriticUrl": "https://www.metacritic.com/game/pc/wanderstop?ftag=MCD-06-10aaa1f",
     "website": "https://annapurnainteractive.com/games/wanderstop",
-    "dlcCount": "1"
+    "dlcCount": "0",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_a2504e8e44a55012554407fbb5b8948ce8473b7b.1920x1080.jpg?t=1786044059",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_714853a6e1a44cfa92db292cf01cfe8c0db33f69.1920x1080.jpg?t=1786044059",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_97401c41a40fedc0fc6510bd1971290eec0d1a09.1920x1080.jpg?t=1786044059",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_d56ee07c55cc91752c14778631a0c0971dceadee.1920x1080.jpg?t=1786044059",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_4f611a61b2ff941f0114decba02e2e78637203fe.1920x1080.jpg?t=1786044059",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1299460/ss_2b9021e096dbc92dc0393f2c495d32e7363cdb91.1920x1080.jpg?t=1786044059"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/1299460/708760/e1038cd4c496e90bd10b9f2693f6fbed8b46e621/1750670558/hls_264_master.m3u8?t=1741701215",
+      "https://video.akamai.steamstatic.com/store_trailers/1299460/827556/17bf5d5a6529620dea08bbe0ee97d75c9b0471cf/1750670574/hls_264_master.m3u8?t=1741701218",
+      "https://video.akamai.steamstatic.com/store_trailers/1299460/787807/9ba58ece5ed929b4ff1b28ac0a81e50f7b7b0fe1/1750670566/hls_264_master.m3u8?t=1733437282"
+    ]
   },
   {
     "id": 3751260,
