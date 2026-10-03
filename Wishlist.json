@@ -1442,7 +1442,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/page_bg_raw.jpg?t=1757956874",
     "dateRequested": "04.02.2026",
     "year": "2024",
-    "price": "$16,49 / 1 200 ₽ / 700 ₴ / 8 800 ₸",
+    "price": "$4.61 / 336 ₽ / 196 ₴ / 2,464 ₸",
     "isFree": "false",
     "studios": "Slow Bros. (Изд: Slow Bros.)",
     "genres": "Приключенческие игры, Казуальные игры, Инди",
@@ -1453,7 +1453,23 @@
     "metacriticUrl": "",
     "website": "https://haroldhalibut.com/",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_b87395ade1f30f93495a1b72013484f738b6a997.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_5e1c5fa4eac0e8df830bfbdec61a4225fa794078.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_9460183dafa62fb460e8ff61405e0464c4fcb11b.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_05f6b85959fecf4ed84c2e9de753bac3b2dba1da.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_4bc63e97b0fd45d72859abb02bdef409c0ac2c59.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_95cc2b605f771b456cb05088f25d211f2a5b9d74.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_1dfa003ddfa9882fb271684d292497a52378bf9a.1920x1080.jpg?t=1757956874",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924750/ss_b87b6df2aeb44d7cfbeb70e0d0b723535dddb25b.1920x1080.jpg?t=1757956874"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/924750/688169/3ebe3bb0d743488475027a307e038b5f9624613a/1750596547/hls_264_master.m3u8?t=1713268139",
+      "https://video.akamai.steamstatic.com/store_trailers/924750/676876/6c661fd7011695f453434a75ac1749a508177a64/1750596520/hls_264_master.m3u8?t=1711051618",
+      "https://video.akamai.steamstatic.com/store_trailers/924750/377044/369e95bb949f0f58ab97bc4e12d979adc209ce28/1750596516/hls_264_master.m3u8?t=1701412894",
+      "https://video.akamai.steamstatic.com/store_trailers/924750/358959/d8b1726ecc22985f035eec8eb02a0f7ac610d2d6/1750596506/hls_264_master.m3u8?t=1701412899"
+    ]
   },
   {
     "id": 1209970,
