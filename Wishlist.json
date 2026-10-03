@@ -1630,8 +1630,8 @@
     "type": "Игра",
     "status": "В вишлисте",
     "steamAppId": "4098030",
-    "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/4098030/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/cde0188747f7b0fb2205b8e76722ce6da23b0a56/page_bg_raw.jpg?t=1784233305",
+    "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/5779065f314165697c01a5382faee517b39e1436/header.jpg?t=1790341117",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/015503202645429ffdadd404e7a9ae14e0147489/page_bg_raw.jpg?t=1790341117",
     "dateRequested": "28.07.2026",
     "year": "2026",
     "price": "Неизвестно",
@@ -1639,14 +1639,31 @@
     "studios": "Playstrom (Изд: SayGames)",
     "genres": "Экшены, Приключенческие игры, Симуляторы",
     "platforms": "Windows",
-    "overview": "Возглавь пункт выдачи будущего! Нанимай роботов, отправляй заказы дронами и побеждай конкурентов. Доставляй срочные грузы на собственном грузовике в каждый уголок солнечного Крейнлока.",
-    "detailedDesc": "2037 год. Твой путь от скромного пункта выдачи до логистического хаба начинается здесь.Нанимай роботов, расширяй склад, автоматизируй рутину и отбирай у конкурента район за районом. Чем умнее твоя стратегия — тем больше заказов и выше прибыль.Роботы-помощникиРоботы выполнят за тебя всю скучную работу: разгрузят коробки, заполнят полки и обслужат клиентов. Следи за их состоянием — и твой склад будет работать как часы.Доставка: земля и воздухСадись за руль и доставляй крупные заказы, исследуя живописные улицы Крейнлока. А для срочных мини-посылок используй дроны — по воздуху быстрее!Идеальный порядокПринимай поставки, сортируй посылки и выстраивай свою систему хранения — чёткую и понятную только тебе. Расширяйся, чтобы ни один клиент не ушёл без заказа!Битва за КрейнлокБрось вызов конкурентам: заполни город своей рекламой, перемани ключевых клиентов и отнимай эксклюзивные VIP-заказы. Стань городской легендой доставки!",
+    "overview": "Играй за руководителя обанкротившейся службы доставки из будущего. Выполняй всё сам или автоматизируй с помощью роботов и дронов. VIP-клиенты, черный рынок, пакости конкурентов, гонки на фургонах - это лишь малая часть живого города, который хранит в себе немало секретов.",
+    "detailedDesc": "ИЩЕМ РУКОВОДИТЕЛЯ ЗАБРОШЕННОГО ПЕРСПЕКТИВНОГО СКЛАДА!2037 год. У тебя маленький склад, гора посылок и большие мечты. Сортируй коробки и доставляй заказы клиентам. А потом нанимай роботов и… следи, чтобы они не накосячили.НЕ МОЖЕТ НАПИСАТЬ СИМФОНИЮ, НО МОЖЕТ ДОСТАВИТЬ КОРОБКИСначала всё на тебе: принимай доставку, сортируй товар и не заставляй клиентов ждать. Попробуй справиться хотя бы с чем-то из этого. А как только купишь роботов, которые будут работать 24/7, жизнь на складе станет в разы интереснее. Автоматизируй процессы и наблюдай, как склад растёт. Анализируй потребности склада и закупай нужных роботов.БОЛЬШЕ СКЛАД. БОЛЬШЕ ДЕНЕГ. БОЛЬШЕ КОНКУРЕНЦИЯБольшой заказ? Загружай фургон. Срочная посылка? Запускай дрон. Построй бизнес, который эффективно действует на земле и в воздухе.ПРАВИЛО БИЗНЕСА №1: НИКАКИХ ПРАВИЛКонкуренты тоже хотят денег. Заполняй город рекламой, переманивай ключевых клиентов и забирай самые выгодные VIP-заказы на чёрном рынке. Действовать придется ночью, без лишних следов: ФБР такие посылки не любит.БЕСКОНЕЧНОСТЬ НЕ ПРЕДЕЛ! КОГДА ЕСТЬ РАКЕТАА когда город станет для тебя тесным — займись строительством ракеты для доставок космического масштаба! Среди клиентов есть не только люди.",
     "metacriticScore": "Нет оценок",
     "metacriticUrl": "",
     "website": "https://say.games/games/shipping-store-simulator-2037/",
     "dlcCount": "0",
     "altPoster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9wxJywIK3leazXAKeXOQ8cLKN0wKukWR9YbQfcbdAg217U46Aut8RKpE&s=10",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/73f787c14ddd391ea6d7693c42e429bb9d0e4088/ss_73f787c14ddd391ea6d7693c42e429bb9d0e4088.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/ef8eee3f8f6f07aff5f1807808a5bfce4a12e352/ss_ef8eee3f8f6f07aff5f1807808a5bfce4a12e352.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/c24a5e357d4b789aa71f4f14d1ff1dfb5aedc691/ss_c24a5e357d4b789aa71f4f14d1ff1dfb5aedc691.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/ece9ab0815123b539d3ca056cf65c4069f88c46e/ss_ece9ab0815123b539d3ca056cf65c4069f88c46e.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/15fc6d8e3764b39dea956eeae435d4794d013af2/ss_15fc6d8e3764b39dea956eeae435d4794d013af2.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/a596e7d2a56dcb49be76794ca73df1d7c9b803a0/ss_a596e7d2a56dcb49be76794ca73df1d7c9b803a0.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/31a80dbe63ab1e30a6955693ea65e7123fe124a4/ss_31a80dbe63ab1e30a6955693ea65e7123fe124a4.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/a62545e0e2297caebeee032b97f972fd4b51a9ef/ss_a62545e0e2297caebeee032b97f972fd4b51a9ef.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/79b480db43fd313ff720831f32eecd467a3232ea/ss_79b480db43fd313ff720831f32eecd467a3232ea.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/ae850ad765f48a46f774affadb53980cfc4c492a/ss_ae850ad765f48a46f774affadb53980cfc4c492a.1920x1080.jpg?t=1790341117",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4098030/a22724f8b4226338a25bd791d979add844916f1e/ss_a22724f8b4226338a25bd791d979add844916f1e.1920x1080.jpg?t=1790341117"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/4098030/1178359209/766b2a69069ce02e0cd8684e5f816a0788b446c5/1780476589/hls_264_master.m3u8?t=1780494745",
+      "https://video.akamai.steamstatic.com/store_trailers/4098030/1704590170/0d73f6eb95c6c64f12d873b76ff5df20cd9369ff/1775490331/hls_264_master.m3u8?t=1775569778"
+    ]
   },
   {
     "id": 4876650,
