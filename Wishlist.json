@@ -1407,7 +1407,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/e43919a1ff5edd5db208c1f4257acba2a039c47f/page_bg_raw.jpg?t=1757247822",
     "dateRequested": "03.08.2025",
     "year": "2025",
-    "price": "$4,40 / 269 ₽ / 157 ₴ / 2 030 ₸",
+    "price": "$4.40 / 269 ₽ / 157 ₴ / 2,030 ₸",
     "isFree": "false",
     "studios": "Biri Biri (Изд: Biri Biri)",
     "genres": "Приключенческие игры",
@@ -1418,7 +1418,24 @@
     "metacriticUrl": "",
     "website": "",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/9bece04fee4743a28bbdea3dc96cdb575e80d267/ss_9bece04fee4743a28bbdea3dc96cdb575e80d267.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/33a9f24a8ae718e0110ae167910b0a9919691a6b/ss_33a9f24a8ae718e0110ae167910b0a9919691a6b.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/46440589764385b78c40b2802b438f58271373dc/ss_46440589764385b78c40b2802b438f58271373dc.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/ed45ca49a91397abef5d1a0c25bc6ae327a9eb28/ss_ed45ca49a91397abef5d1a0c25bc6ae327a9eb28.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/434d27df409939b2928fb2a54ce8f625782b37ba/ss_434d27df409939b2928fb2a54ce8f625782b37ba.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/5a5e9428c988e48115623c6793f3a3fb8841a866/ss_5a5e9428c988e48115623c6793f3a3fb8841a866.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/e864dbd975bf283b979b5f8372e8d8e72db97137/ss_e864dbd975bf283b979b5f8372e8d8e72db97137.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/e83fcc0c2b71a6d7998818f8bd43830f3617d873/ss_e83fcc0c2b71a6d7998818f8bd43830f3617d873.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/12a97c4422025a3ad209465030b4156f11eea9b5/ss_12a97c4422025a3ad209465030b4156f11eea9b5.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/54aee0f8e881058e917bb5f68c35e9e851672df4/ss_54aee0f8e881058e917bb5f68c35e9e851672df4.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/dcd8320ff88693604777768de9390c784dbcf60e/ss_dcd8320ff88693604777768de9390c784dbcf60e.1920x1080.jpg?t=1757247822",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3517980/3051fa6d8f621f51c4c997ac2c4848fdb7e24e7e/ss_3051fa6d8f621f51c4c997ac2c4848fdb7e24e7e.1920x1080.jpg?t=1757247822"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3517980/241312050/75f66a66dcd38c22b294e1ed4898d5801f59ae7f/1750857633/hls_264_master.m3u8?t=1748796168"
+    ]
   },
   {
     "id": 3562200,
