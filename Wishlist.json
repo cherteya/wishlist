@@ -920,7 +920,7 @@
     "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/a2483d9d7fb4b213e8b2202ad95837dd58107c90/page_bg_raw.jpg?t=1782401957",
     "dateRequested": "31.05.2026",
     "year": "2026",
-    "price": "$3,99 / 310 ₽ / 195 ₴ / 1 930 ₸",
+    "price": "$2.99 / 232 ₽ / 146 ₴ / 1,447 ₸",
     "isFree": "false",
     "studios": "OtherSide Entertainment (Изд: Megabit Publishing)",
     "genres": "Экшены, Инди, Симуляторы",
@@ -931,7 +931,25 @@
     "metacriticUrl": "",
     "website": "https://bit.ly/4hXOod3",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/80b0ed67734797956e3d31585c65a3e1afc175b7/ss_80b0ed67734797956e3d31585c65a3e1afc175b7.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/19791c12104f5e656a360bedee83471e29cfd5e1/ss_19791c12104f5e656a360bedee83471e29cfd5e1.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/1785049aeb1c0fd057914f7245a31d336dc219ff/ss_1785049aeb1c0fd057914f7245a31d336dc219ff.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/23128df57717c3f2e8d7d4c1bd39fbe3d903ea09/ss_23128df57717c3f2e8d7d4c1bd39fbe3d903ea09.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/6893098583cdb43a07aa45bb86eb1b44686b76ab/ss_6893098583cdb43a07aa45bb86eb1b44686b76ab.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/175ff0a8b67e30cfce346c6ac36e513324ad74c5/ss_175ff0a8b67e30cfce346c6ac36e513324ad74c5.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/84cd610bfc3f708ef3cd57b4d5f2845283a4d6e9/ss_84cd610bfc3f708ef3cd57b4d5f2845283a4d6e9.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/7bc1071973582ef31c105e359fee79efbfb424c5/ss_7bc1071973582ef31c105e359fee79efbfb424c5.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/bdbda5f227359c4246bb7cd8160864ef7eaa3556/ss_bdbda5f227359c4246bb7cd8160864ef7eaa3556.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/6e36b17ae23a8ed0451123863d37fdeb0ffd573b/ss_6e36b17ae23a8ed0451123863d37fdeb0ffd573b.1920x1080.jpg?t=1782401957",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3341000/035fa6f195f673eef7cdb5f02668e912e4f75543/ss_035fa6f195f673eef7cdb5f02668e912e4f75543.1920x1080.jpg?t=1782401957"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/3341000/398161651/ce58d109a985737642ce77fe7e19af4166729e3f/1781689296/hls_264_master.m3u8?t=1781886612",
+      "https://video.akamai.steamstatic.com/store_trailers/3341000/2125587300/0f25eafd1a6001dd9c87744b1bc22af7cb78e90b/1777478066/hls_264_master.m3u8?t=1778530918",
+      "https://video.akamai.steamstatic.com/store_trailers/3341000/1068478821/a5f2fc80b658da630c0b4a6a45b03faf8579221a/1779231295/hls_264_master.m3u8?t=1779288293"
+    ]
   },
   {
     "id": 3431040,
