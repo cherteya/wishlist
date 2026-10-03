@@ -725,12 +725,12 @@
     "status": "В вишлисте",
     "steamAppId": "2723430",
     "poster": "https://cdn.cloudflare.steamstatic.com/steam/apps/2723430/library_600x900_2x.jpg",
-    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/page_bg_raw.jpg?t=1782287051",
+    "backdrop": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/page_bg_raw.jpg?t=1788165673",
     "dateRequested": "26.02.2026",
     "year": "2026",
-    "price": "$9,99 / 865 ₽ / 430 ₴ / 5 150 ₸",
+    "price": "$7.99 / 692 ₽ / 344 ₴ / 4,120 ₸",
     "isFree": "false",
-    "studios": "Nagai Industries (Изд: Nagai Industries, Beep Japan Inc., Serenity Forge, Smilegate)",
+    "studios": "Nagai Industries (Изд: Nagai Industries, Beep Japan, Serenity Forge, Smilegate)",
     "genres": "Приключенческие игры, Казуальные игры, Инди, Симуляторы",
     "platforms": "Windows, Mac",
     "overview": "inKONBINI: One Store. Many Stories предлагает оказаться за прилавком уютного продуктового магазинчика начала 90-х. Исследуйте ассортимент, расставляйте товары, слушайте истории покупателей и наблюдайте за тем, как ваши ежедневные решения меняют их жизни...",
@@ -739,7 +739,21 @@
     "metacriticUrl": "",
     "website": "https://www.inkonbini.com",
     "dlcCount": "0",
-    "datePriceUpdated": "30.08.2026"
+    "datePriceUpdated": "03.10.2026",
+    "screenshots": [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/3faf1890ffd79b3e0aea23f92ff33c675ca99aaf/ss_3faf1890ffd79b3e0aea23f92ff33c675ca99aaf.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/440202bd49d8b90542cccf998fd801e9a6c090f9/ss_440202bd49d8b90542cccf998fd801e9a6c090f9.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/09d24f3ede74af7f4bbbb2effc7f733215baa67b/ss_09d24f3ede74af7f4bbbb2effc7f733215baa67b.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/c66139bda4265970be0002f21fc6acafb4c7bbc4/ss_c66139bda4265970be0002f21fc6acafb4c7bbc4.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/91cf842c0c6acf7ad4357a6711fb2919aa8f248e/ss_91cf842c0c6acf7ad4357a6711fb2919aa8f248e.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/2292e37d3250e9d87b91a980100be75b920b138d/ss_2292e37d3250e9d87b91a980100be75b920b138d.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/4cad69ae3bfed6084f2e4608187daf1a7cdcf96a/ss_4cad69ae3bfed6084f2e4608187daf1a7cdcf96a.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/4264d85fab87ac106ac8860ba570f17352096d65/ss_4264d85fab87ac106ac8860ba570f17352096d65.1920x1080.jpg?t=1788165673",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2723430/c3edd5b0249081f732c94857eedd348968cd522b/ss_c3edd5b0249081f732c94857eedd348968cd522b.1920x1080.jpg?t=1788165673"
+    ],
+    "trailers": [
+      "https://video.akamai.steamstatic.com/store_trailers/2723430/1669376144/a99ae7c2422276ae6bd7b5e037eb0224059c0d6a/1767935392/hls_264_master.m3u8?t=1768026398"
+    ]
   },
   {
     "id": 2744010,
